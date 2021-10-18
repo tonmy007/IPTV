@@ -26,6 +26,71 @@ Pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8
 广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
 经济科教,http://111.161.121.214/nclive.grtn.cn/tvs1hd/hd/live.m3u8
 岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
+南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo
+
+广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
+广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
+广州法制,http://ye23.win/iptv/gztv.php?id=fazhi
+广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
+广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
+
+🇭🇰珠江宽频,#genre#
+CCTV1,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=0&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+湖南卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=1&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州综合,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV5+,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=3&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+北京卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=4&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+东方卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=6&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+浙江卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+江苏卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州新闻,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=9&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州影视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=11&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州竞赛,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV4K,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV2,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州法治,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=15&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV14,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州综艺4K,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州少儿,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=18&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+南方卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+深圳卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=22&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+安徽卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=23&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+经济科教,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=24&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东新闻,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东少儿,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=26&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东公共,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=27&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV3,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=28&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV5,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=29&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV4,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=30&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV6,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV7,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV11,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=33&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV8,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=34&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV9,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=35&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV10,http://116.199.5.58:8114/index.m3u83Fsv_chan_hls_se_idx=36&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+湖北卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=37&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+珠江电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+江西卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=41&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+东南卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=42&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+四川卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=43&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+贵州卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=44&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+BTV,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+山东卫视,http://116.199.5.58:8114/index.m3u83Fsv_chan_hls_se_idx=46&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=47&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=48&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=50&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=51&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=52&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=53&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=55&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=56&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州课堂,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=57&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇨🇳央视频道,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -1635,55 +1700,6 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
 
-时尚_1,#genre# 
-HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-HD Fashion,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
-HD Fashion,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
-WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-WFC时装,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-Dorcel TV HD,http://188.35.9.11:21141/udp/214h
-FTV①国际 ,mitv://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
-FTV②巴黎 ,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FTV③欧莱雅,https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-FTV④午夜秘密,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FTV④午夜秘密,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-FTV④午夜秘密,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-
-Fashion时装,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-a3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-FTV Teens,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-FTV Midnight,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-
-FTV Paris,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-FTV L'Original,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-FTV Midnight Secert,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-World Fashion,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-Jasmin TV,https://gintna100.tulix.tv/gin_live/jasmintv/7834bc0c7f2e102cbefcbf8880bb3cf4/610a1ac2/index.m3u8
-Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
-Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/playlist.m3u8
-Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18WEB/playlist.m3u8
-Miami Jenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
-MILAN FASHION WEEK,https://fashionbox-localnow.cinedigm.com/playlist.m3u8
-Odessa Fashion,http://cdn10.live-tv.od.ua:8081/ofod/ofod480p/playlist.m3u8
-World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
-Global Fashion Channel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-ID Fashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-Runway TV,https://vse2-na-us-sm5.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
-QVC Beauty,https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
-QVC Beauty 2,https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
-QVC Beauty 3,https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
-Beauty iQ,https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-GEMS TV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
-Jewellery Maker,https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-
 198测试,#genre#
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
@@ -1753,101 +1769,6 @@ HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m020000000000177685
 香港鳳凰,http://198.16.106.62:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
 鳳凰香港,http://198.16.106.62:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
 TVB互動新聞,http://198.16.106.62:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
-🇭🇰马来185,#genre#
-TVN185,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
-TVN Movie185,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-HBO,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBO HiTS,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO Signature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-Sony ONE185,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
-BBC Earth,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-NAT GEO 悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-DISNEY TV,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8 
-Animal Planet185,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-Astro Arena,http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-Astro Awani,http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
-Astro AEC,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-Astro Warna,http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-Astro Ria,http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-Astro Prima,http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-Astro Oasis,http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
-Astro Citra,http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
-BOO,http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-Hello,http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-Naura,http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-TVB Xing He,http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-Astro Quan Jia,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-Astro AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-Astro Xiao Tai Yang,http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-Astro Hua Hee Dai,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-Astro Shuang Xing,http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-iQIYI,http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-Thrill,http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-AXN,http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-TLC,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-Fox Action Movies,http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-Fox Sports 1,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-Fox Sports 2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-Fox Sports 3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-Fox Movies,http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-Fox Life,http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-Fox Family Movies,http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-Fox HD,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-Fox Crime,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-AFN,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-HITS,http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-HITS MOVIES,http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-Celestial Movie,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-CCM,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
-ANIMAX,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-測試(twIP)_1,#genre#
-eleven体育1,http://125.227.210.37:10677/VideoInput/play.ts
-探索亚洲,http://125.227.210.37:10388/VideoInput/play.ts
-年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
-TVBS新闻,http://125.227.210.37:16329/VideoInput/play.ts
-国家地理,http://125.227.210.37:16408/VideoInput/play.ts
-东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
-卫视洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
-东森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
-年代新闻,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
-FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
-迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
-中天综合,http://125.227.210.55:14583/VideoInput/play.ts#http://125.227.210.37:14583/VideoInput/play.ts
-非凡新闻,http://125.227.210.55:15078/VideoInput/play.ts#http://125.227.210.37:15078/VideoInput/play.ts
-三立新闻,http://125.227.210.55:15589/VideoInput/play.ts#http://125.227.210.37:15589/VideoInput/play.ts
-三立台湾,http://125.227.210.55:15714/VideoInput/play.ts#http://125.227.210.37:15714/VideoInput/play.ts
-中天娱乐,http://125.227.210.55:15796/VideoInput/play.ts#http://125.227.210.37:15796/VideoInput/play.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
-纬来体育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
-TLC旅游,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
-彭博财经,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
-Arirang,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
-NHKworld,http://125.227.210.55:8931/VideoInput/play.ts#http://125.227.210.37:8931/VideoInput/play.ts
-YTN,http://125.227.210.55:8932/VideoInput/play.ts#http://125.227.210.37:8932/VideoInput/play.ts
-HBO,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
-CNBC,http://125.227.210.55:16415/VideoInput/play.ts#http://125.227.210.37:16415/VideoInput/play.ts
-DW,http://125.227.210.55:8934/VideoInput/play.ts#http://125.227.210.37:8934/VideoInput/play.ts
-DW德语,http://125.227.210.55:8935/VideoInput/play.ts#http://125.227.210.37:8935/VideoInput/play.ts
-RT,http://125.227.210.55:8936/VideoInput/play.ts#http://125.227.210.37:8936/VideoInput/play.ts
-TV5亚洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:8937/VideoInput/play.ts
-半岛新闻,http://125.227.210.55:8938/VideoInput/play.ts#http://125.227.210.37:8938/VideoInput/play.ts
-NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
-NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
-BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts                                                                                                                                      
-Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
-Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
-Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
-Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
-Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
 
 台湾测试xtvants,#genre#
 民視,http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free 
@@ -1975,534 +1896,5 @@ Z頻道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 衛視電影台,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free 
 龍祥電影台,http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free
 
-全佳TV_1,#genre#
-國家人文,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910ca6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-WAKUWAKU,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d38?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC Lifestyle,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cba?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-History歷史,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-History 歷史2,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cec?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FRANCE24,rtmp://45.88.148.122/channel/611c85843e4da143c01598f3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-民視HD,rtmp://118.163.221.79/channel/60c317bd961593122ebaf90a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-好消息2,rtmp://202.39.64.233/channel/61000cf1f0618408855f36c2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-台視HD,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c44?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-大愛,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c7a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中視HD,rtmp://220.130.68.152/channel/60c3166c961593122ebaf8fe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-霹靂台灣台,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c72?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華視HD,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c4c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-公視,rtmp://202.39.64.233/channel/60c3176f961593122ebaf906?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-人間衛視,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c52?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-原民台,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c42?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-客家電視台,rtmp://220.130.68.152/channel/61003b23f0618408855f3748?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-國家地理高畫質,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d1e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-探索,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TLC,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cfa?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-動物星球,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CN卡通頻道,rtmp://45.88.148.178/channel/60f451628dfe8209677fda46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-迪士尼 ,rtmp://45.88.148.178/channel/60f451968dfe8209677fda48?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MOMO親子,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森幼幼,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d84?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來綜合,rtmp://45.88.148.114/channel/60c312b7961593122ebaf8f1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-八大第一,rtmp://45.88.148.178/channel/60c31d07961593122ebaf92d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-八大綜合,rtmp://45.88.148.178/channel/60c31c5a961593122ebaf92b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-三立台灣,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c78?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-年代MUCH,rtmp://45.88.148.178/channel/611a835f3e4da143c015987e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-衛視中文,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-信吉電視,rtmp://45.88.148.178/channel/611a83ad3e4da143c0159880?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森綜合,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d86?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森超視,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d8e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-國家野生,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d22?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍華偶像,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d48?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-探索旅遊生活,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910d76?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中天綜合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d90?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-探索亞洲,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910d70?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Lifetime娛樂,rtmp://118.163.221.79/channel/61002c6df0618408855f370c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中天娛樂,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c94?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森戲劇,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天戲劇,rtmp://61.216.43.210/channel/60c343f1961593122ebaf998?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-八大戲劇,rtmp://45.88.148.178/channel/60c31d53961593122ebaf92f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東風衛視,rtmp://45.88.148.178/channel/610ab00d3e4da143c01581ce?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVBS精彩,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來戲劇,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c9a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-高點綜合,rtmp://45.88.148.178/channel/6100120ff0618408855f36dd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-JET 綜合,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c74?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華藝綜合,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cfe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ETtoday綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BLUE ANT Entertainment,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cc2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-寰宇綜合,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d24?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-壹新聞,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c76?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-年代新聞台,rtmp://45.88.148.114/channel/60c3181e961593122ebaf90e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森新聞,rtmp://45.83.118.242/channel/6100144cf0618408855f36e1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中天新聞,rtmp://45.92.126.114/channel/60c0817583c8fd233ad0a1f4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-星衛娛樂,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d3c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-民視新聞台,rtmp://45.88.148.122/channel/60c461de961593122ebafa2c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-三立新聞,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c7c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVBS新聞,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c7e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVBS HD,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c90?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森財經,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c84?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-非凡新聞,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c86?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-法國時裝,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910c5c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Z頻道,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d64?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中天亞洲,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910d94?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-NHK world,rtmp://45.83.118.242/channel/60c2f4fb961593122ebaf8d0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-衛視電影,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cc6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-EYETV戲劇,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cbc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來育樂,rtmp://45.88.148.122/channel/60c31357961593122ebaf8f8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森洋片,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d8c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-八大娛樂,rtmp://45.88.148.178/channel/60c31db1961593122ebaf931?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-好萊塢,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c92?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FOX,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910ca0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天育樂,rtmp://61.216.43.210/channel/60c34368961593122ebaf992?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CINEMAX,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910c96?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來精采,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d2e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來體育,rtmp://45.92.126.226/channel/60c3138a961593122ebaf8fa?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Eleven Sports1,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d60?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-狼谷育樂,rtmp://202.39.64.233/channel/61002279f0618408855f36f1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Golf,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d62?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-愛爾達體育1,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cb4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-博斯運動一台,rtmp://45.12.113.194/channel/610a2b8503524b0155f2346a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來日本,rtmp://45.83.118.242/channel/60c312ed961593122ebaf8f3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-國興,rtmp://202.39.64.233/channel/60c31c32961593122ebaf929?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ChannelV,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910ce6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-亞洲旅遊,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910d0e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CNN,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-愛爾達體育2,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cb6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-愛爾達綜合,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d46?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天綜合,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-EVE探索家庭,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cf4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-寰宇新聞,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d08?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-寰宇新聞二台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d26?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC World News,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d42?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-愛爾達體育3,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cb8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-香港有線新聞,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-新加坡亞洲新聞,rtmp://118.163.221.79/channel/60c2f49c961593122ebaf8cd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-卡達半島,rtmp://118.163.221.79/channel/60c2f52d961593122ebaf8d2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TV-5,rtmp://118.163.221.79/channel/60c2f5bb961593122ebaf8d4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-DW-TV,rtmp://202.39.64.233/channel/60c2f625961593122ebaf8d6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TV5 Monde,rtmp://202.39.64.233/channel/60c30e75961593122ebaf8ed?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-sky-news,rtmp://45.83.118.242/channel/60c31287961593122ebaf8ef?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-三立綜合台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d28?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-三立戲劇台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d30?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天資訊,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d5a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-歐洲新聞,rtmp://118.163.221.79/channel/61002dbef0618408855f370f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖洋戲劇台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天歡樂,rtmp://61.216.43.210/channel/60c343c5961593122ebaf996?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-三立財經,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d04?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MTV LIVE,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cde?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CNBC,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d44?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-寰宇財經,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FOOD美食,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-亞洲美食,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910d00?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-愛放動漫,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910d02?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-博斯高球2,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cd0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天日本,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-NEWS24,rtmp://118.163.221.79/channel/6130ffd5c6f62a25d2da2181?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FIGHTING TV サムライ,rtmp://118.163.221.79/channel/61310016c6f62a25d2da2183?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Outdoor,rtmp://202.39.64.233/channel/60c2f692961593122ebaf8da?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CLASSICA HD,rtmp://220.130.68.152/channel/60c30ac7961593122ebaf8e2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-GOLF,rtmp://118.163.221.79/channel/60c30afc961593122ebaf8e4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍華影劇,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cc0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FIGHT,rtmp://220.130.68.152/channel/60c30e2d961593122ebaf8ea?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-美食星球,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-勁爆體育,rtmp://45.88.148.178/channel/60ecda94020b42a2f634be05?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-博斯高球1,rtmp://45.83.118.242/channel/610a2ac603524b0155f23466?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-博斯網球,rtmp://45.83.118.242/channel/610a2b2f03524b0155f23468?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Disney XD Japan,rtmp://118.163.221.79/channel/61310363c6f62a25d2da2197?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-博斯運動二台,rtmp://45.12.113.194/channel/610a2bdf03524b0155f2346c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-博斯魅力,rtmp://45.83.118.242/channel/610a3b7e03524b0155f23475?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-DREAMWORKS,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cd2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍華動畫,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cda?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-曼迪日本台,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910ce0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-鉄道チャンネル,rtmp://118.163.221.79/channel/6130ff85c6f62a25d2da217f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Boomerang,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910d6a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖洋卡通,rtmp://61.216.43.210/channel/60c344bf961593122ebaf9a0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天卡通,rtmp://61.216.43.210/channel/60c344f6961593122ebaf9a2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-探索科學,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910d72?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MTV音樂台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ANIMAX,rtmp://220.130.68.152/channel/6100125ff0618408855f36df?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Kids Zone Pakistan,rtmp://45.92.126.226/channel/61004263f0618408855f375c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-采昌戲劇,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cd4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中視新聞HD,rtmp://220.130.68.152/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-LUXE TV,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910ce2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-澳門蓮花衛視,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910c5a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-明珠台,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c62?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-星河频道,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910d7a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-法國時尚瘋,rtmp://118.163.221.79/channel/61004184f0618408855f3758?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-有線18台,rtmp://202.39.64.233/channel/60c2d2f9961593122ebaf8b9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-有線財經資訊,rtmp://202.39.64.233/channel/60c2d336961593122ebaf8bb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-有線603高清,rtmp://202.39.64.233/channel/60c2d3a9961593122ebaf8bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-スーパー！ドラマＴＶ,rtmp://118.163.221.79/channel/61319c6ec6f62a25d2da21c1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-福克斯電影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MONDO TV,rtmp://118.163.221.79/channel/61319d21c6f62a25d2da21c5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-有線綜合娛樂,rtmp://202.39.64.233/channel/60c2f289961593122ebaf8c1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ゴルフネットワーク,rtmp://118.163.221.79/channel/6132218dc6f62a25d2da21ce?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Sport Plus 1 HD（奥运602),rtmp://202.39.64.233/channel/60c2f2c0961593122ebaf8c3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-アニマルプラネット 動物星球,rtmp://118.163.221.79/channel/6131031fc6f62a25d2da2195?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBCワールドニュース,rtmp://118.163.221.79/channel/6132224ac6f62a25d2da21d2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-鳳凰衛視中文,rtmp://202.39.64.233/channel/60c2f331961593122ebaf8c7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CNN NEWS,rtmp://220.130.68.152/channel/6132238ec6f62a25d2da21d4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-鳳凰衛視香港,rtmp://202.39.64.233/channel/60c2f428961593122ebaf8c9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-スターチャンネル１,rtmp://118.163.221.79/channel/613103a6c6f62a25d2da2199?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Music Japan TV,rtmp://220.130.68.152/channel/613223d7c6f62a25d2da21d6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-鳳凰衛視資訊,rtmp://202.39.64.233/channel/60c2f46e961593122ebaf8cb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-スターチャンネル２,rtmp://118.163.221.79/channel/61310410c6f62a25d2da219b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MTV,rtmp://220.130.68.152/channel/61322427c6f62a25d2da21d8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-星空衛視,rtmp://45.12.113.194/channel/60ecda6b020b42a2f634be03?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-スターチャンネル３,rtmp://118.163.221.79/channel/6131044fc6f62a25d2da219d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MUSIC ON! TV（エムオン!）,rtmp://220.130.68.152/channel/6132246bc6f62a25d2da21da?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ヒストリーチャンネル™,rtmp://220.130.68.152/channel/613224aec6f62a25d2da21dc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-AXN ＨＤ 海外ドラマ,rtmp://220.130.68.152/channel/61322915c6f62a25d2da21de?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-釣りビジョン,rtmp://220.130.68.152/channel/61322958c6f62a25d2da21e0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-AXNミステリー,rtmp://202.39.64.233/channel/61322a00c6f62a25d2da21e4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ナショナル ジオグラフィック チャンネル,rtmp://202.39.64.233/channel/61322a43c6f62a25d2da21e6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-KBS Ｗorld,rtmp://202.39.64.233/channel/61322a7dc6f62a25d2da21e8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FOX,rtmp://202.39.64.233/channel/61322ac7c6f62a25d2da21ea?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東映チャンネル,rtmp://202.39.64.233/channel/61322b7dc6f62a25d2da21ec?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-女性チャンネル♪LaLa TV,rtmp://202.39.64.233/channel/61322cc4c6f62a25d2da21ee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ムービープラス,rtmp://202.39.64.233/channel/61322cfcc6f62a25d2da21f0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-私人影院,rtmp://202.39.64.233/channel/610006dcf0618408855f36bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-日テレG+,rtmp://202.39.64.233/channel/61322d3dc6f62a25d2da21f2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-衛星劇場ＨＤ,rtmp://202.39.64.233/channel/61322d9cc6f62a25d2da21f4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-GAORA,rtmp://202.39.64.233/channel/61322dd5c6f62a25d2da21f6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ザ・シネマ,rtmp://202.39.64.233/channel/61322e18c6f62a25d2da21f8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-スカイ・A sports＋,rtmp://202.39.64.233/channel/61322e4dc6f62a25d2da21fa?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-緯來電影,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c8c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ディスカバリーチャンネル,rtmp://202.39.64.233/channel/61322e7fc6f62a25d2da21fc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-旅チャンネル,rtmp://202.39.64.233/channel/61322f91c6f62a25d2da21fe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-WOWOWシネマ,rtmp://202.39.64.233/channel/61322fcfc6f62a25d2da2200?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-WOWOWライブ,rtmp://202.39.64.233/channel/61323005c6f62a25d2da2202?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-壹電影台,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cf6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-WOWOWプライム,rtmp://202.39.64.233/channel/61323038c6f62a25d2da2204?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-星衛電影,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d36?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-テレ朝チャンネル２,rtmp://202.39.64.233/channel/61323075c6f62a25d2da2206?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍華電影,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d4c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-テレ朝チャンネル１,rtmp://202.39.64.233/channel/613230b1c6f62a25d2da2208?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天電影,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ミュージック・エア,rtmp://202.39.64.233/channel/613230ebc6f62a25d2da220a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東森電影,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d8a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TBSチャンネル１,rtmp://202.39.64.233/channel/61323121c6f62a25d2da220c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍祥時代電影,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-銀河,rtmp://202.39.64.233/channel/613231dac6f62a25d2da220e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-フジテレビＮＥＸＴ ライブ・プレミアム,rtmp://202.39.64.233/channel/6132323ec6f62a25d2da2210?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-天映电影,rtmp://220.130.68.152/channel/61002e1ff0618408855f3711?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-フジテレビＯＮＥ スポーツ・バラエティ,rtmp://202.39.64.233/channel/61323275c6f62a25d2da2212?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-フジテレビＴＷＯ ドラマ・アニメ,rtmp://202.39.64.233/channel/613232c2c6f62a25d2da2214?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-J SPORTS 1,rtmp://202.39.64.233/channel/613232fec6f62a25d2da2216?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-J SPORTS 2,rtmp://202.39.64.233/channel/61323335c6f62a25d2da2218?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-J SPORTS 3,rtmp://202.39.64.233/channel/61323377c6f62a25d2da221a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FOX MOVIES優質電影,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910ca8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-J SPORTS 4,rtmp://202.39.64.233/channel/613233a8c6f62a25d2da221c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CINEMAX HD,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910cac?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO家庭,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910caa?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO HIT,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cce?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC Earth,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO signature,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910ccc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-影迷數位電影,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910ce8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Boomerang,rtmp://104.149.138.98/channel/6161652a295d84395bad66f5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-影迷數位紀實台,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910cea?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CinemaWorld,rtmp://104.149.138.98/channel/61616565295d84395bad6739?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CinemaWorld,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cf0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-tvN,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Warner TV,rtmp://104.149.138.98/channel/616165a7295d84395bad67a9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BLUE ANT Extreme,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cf2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-韓國娛樂KMTV,rtmp://45.92.126.114/channel/60c2d183961593122ebaf8ae?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-AXN,rtmp://104.149.138.98/channel/6161667e295d84395bad68fe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Star Movies,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d20?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-阿里郎,rtmp://45.88.148.122/channel/61002c00f0618408855f370a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Outdoor Channel,rtmp://104.149.138.98/channel/616166cd295d84395bad6953?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CatchPlay電影台,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d2a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TV5 Monde,rtmp://104.149.138.98/channel/61616807295d84395bad6b8f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-France 24,rtmp://104.149.138.98/channel/61617574295d84395bad896d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍華洋片,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d40?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Da Vinci Learning,rtmp://104.149.138.98/channel/616175a0295d84395bad89cd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華納電影,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910d68?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Asian Food Network,rtmp://104.149.138.98/channel/616175d9295d84395bad8a56?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-KIX,rtmp://104.149.138.98/channel/61617616295d84395bad8ae1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-福斯家庭,rtmp://202.39.64.233/channel/60c2f660961593122ebaf8d8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Blue Ant Extreme,rtmp://104.149.138.98/channel/6161763a295d84395bad8b4d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-福斯動作,rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Blue Ant Entertainment,rtmp://104.149.138.98/channel/61617680295d84395bad8c01?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-光影歐洲,rtmp://118.163.221.79/channel/60c2f712961593122ebaf8de?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Thuần Việt,rtmp://104.149.138.98/channel/616176b1295d84395bad8c96?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO,rtmp://45.83.118.242/channel/60c2f77a961593122ebaf8e0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Thuần Việt,rtmp://104.149.138.98/channel/616176e4295d84395bad8d16?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Plus,rtmp://104.149.138.98/channel/61617733295d84395bad8dd8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Phụ Nữ,rtmp://104.149.184.98/channel/616179cc295d84395bad943f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Gia Đình,rtmp://104.149.184.98/channel/61617a5d295d84395bad9589?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Du Lịch,rtmp://104.149.184.98/channel/61617a8c295d84395bad95ea?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTVC Phim,rtmp://104.149.184.98/channel/61617ab5295d84395bad9644?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTV1,rtmp://104.149.184.98/channel/61617b24295d84395bad973d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTV2,rtmp://104.149.184.98/channel/6161882a295d84395badbf34?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTV3,rtmp://104.149.184.98/channel/61618857295d84395badbfca?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HTV4,rtmp://104.149.184.98/channel/6161888b295d84395badc064?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV1,rtmp://104.149.184.98/channel/616188bd295d84395badc116?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Kix,rtmp://118.163.221.79/channel/60c30db3961593122ebaf8e8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV2,rtmp://104.149.184.98/channel/616188e8295d84395badc191?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天映畫,rtmp://61.216.43.210/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV3,rtmp://104.149.184.98/channel/61618919295d84395badc22f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-探索動力頻道,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910d74?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV4,rtmp://104.149.184.98/channel/61618947295d84395badc2d3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-靖天國際,rtmp://61.216.43.210/channel/60c34331961593122ebaf990?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV5,rtmp://104.149.184.98/channel/61618978295d84395badc37b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-幸福空間居家台,rtmp://61.216.43.210/channel/611c88f93e4da143c01598fc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV6,rtmp://104.149.184.98/channel/616189aa295d84395badc42f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MezzoLive,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910cdc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV7,rtmp://104.149.184.98/channel/61618c6d295d84395badce4b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-古典音樂,rtmp://45.12.113.194/channel/60b4e50239e1b02e8b910ce4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV8,rtmp://104.149.186.246/channel/61618c9f295d84395badcf0f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-1,rtmp://202.39.64.233/channel/60ecd4db020b42a2f634bdb7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV9,rtmp://104.149.186.246/channel/61618d03295d84395badd06c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-愛爾達影劇,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cbe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC14,rtmp://104.149.186.246/channel/61618d32295d84395badd125?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Hậu Giang,rtmp://104.149.186.246/channel/61618f59295d84395badda01?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-3,rtmp://220.130.68.152/channel/60ecd53b020b42a2f634bdbb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Đồng Tháp,rtmp://104.149.186.246/channel/61618f89295d84395baddac7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-4,rtmp://220.130.68.152/channel/60ecd562020b42a2f634bdbd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ANTV HD,rtmp://104.149.186.246/channel/61618fbe295d84395baddbb5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-5,rtmp://220.130.68.152/channel/60ecd580020b42a2f634bdbf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vĩnh Long 1,rtmp://104.149.186.246/channel/61618fef295d84395baddc85?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-6,rtmp://220.130.68.152/channel/60ecd5a0020b42a2f634bdc1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vĩnh Long 2,rtmp://104.149.186.246/channel/6161901f295d84395baddd51?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-7,rtmp://220.130.68.152/channel/60ecd5ce020b42a2f634bdc3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vĩnh Long 3,rtmp://104.149.186.246/channel/6161904d295d84395badde22?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-8,rtmp://220.130.68.152/channel/60ecd618020b42a2f634bdc5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bạc Liêu,rtmp://104.149.186.246/channel/6161907f295d84395baddedc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-9,rtmp://220.130.68.152/channel/60ecd638020b42a2f634bdc7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bắc Giang,rtmp://104.149.186.246/channel/616190ac295d84395baddfb5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-10,rtmp://220.130.68.152/channel/60ecd662020b42a2f634bdc9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bà Rịa-Vũng Tàu,rtmp://104.149.186.246/channel/616190d4295d84395bade092?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-11,rtmp://220.130.68.152/channel/60ecd67e020b42a2f634bdcb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-An Giang,rtmp://104.149.186.246/channel/616190fc295d84395bade13a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-12,rtmp://220.130.68.152/channel/60ecd761020b42a2f634bdcd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-YouTV,rtmp://104.149.186.246/channel/61619123295d84395bade1d8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-13,rtmp://220.130.68.152/channel/60ecd786020b42a2f634bdcf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Truyền Hình Nhân Dân,rtmp://104.149.186.246/channel/61619772295d84395badfed4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-14,rtmp://220.130.68.152/channel/60ecd7a2020b42a2f634bdd1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Thông Tấn Xã Việt Nam,rtmp://104.149.187.154/channel/616197a3295d84395badffa9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCTV-15,rtmp://220.130.68.152/channel/60ecd7bf020b42a2f634bdd3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Quốc Phòng VN,rtmp://104.149.187.154/channel/616197d5295d84395bae0046?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-湖南衛視,rtmp://220.130.68.152/channel/60ecd7f5020b42a2f634bdd5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Quốc Hội,rtmp://104.149.187.154/channel/61619800295d84395bae00c7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-浙江衛視,rtmp://220.130.68.152/channel/60ecd855020b42a2f634bded?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTV Hyundai Homeshopping,rtmp://104.149.187.154/channel/6161982a295d84395bae0156?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東方衛視,rtmp://220.130.68.152/channel/60ecd881020b42a2f634bdef?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VOVTV,rtmp://104.149.187.154/channel/6161985b295d84395bae0213?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-江蘇衛視,rtmp://220.130.68.152/channel/60ecd8ac020b42a2f634bdf1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-澳亞衛視,rtmp://220.130.68.152/channel/60ecd8dc020b42a2f634bdf3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FBNC,rtmp://104.149.187.154/channel/61619889295d84395bae0290?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-河南衛視,rtmp://220.130.68.152/channel/60ecd916020b42a2f634bdf5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-NCM,rtmp://104.149.187.154/channel/616198b6295d84395bae0300?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-北京衛視,rtmp://220.130.68.152/channel/60ecd962020b42a2f634bdf7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BTV6,rtmp://104.149.187.154/channel/616198de295d84395bae036a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-湖北衛視,rtmp://220.130.68.152/channel/60ecd98e020b42a2f634bdf9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BTV11,rtmp://104.149.187.154/channel/6161990e295d84395bae03e2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-廣東衛視,rtmp://220.130.68.152/channel/60ecd9b6020b42a2f634bdfb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-iMovie,rtmp://104.149.187.154/channel/61619939295d84395bae0458?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-深圳衛視,rtmp://220.130.68.152/channel/60ecd9f1020b42a2f634bdfd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC1,rtmp://104.149.187.154/channel/61619961295d84395bae04bc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-南方衛視,rtmp://118.163.221.79/channel/60ecda1b020b42a2f634bdff?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC2,rtmp://104.149.187.154/channel/6161998c295d84395bae0525?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-東南衛視,rtmp://118.163.221.79/channel/60ecda40020b42a2f634be01?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC3,rtmp://104.149.187.154/channel/616199b8295d84395bae05a0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-珠江台,rtmp://118.163.221.79/channel/60ecdab7020b42a2f634be07?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC4,rtmp://104.149.187.154/channel/616199e4295d84395bae0610?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-衛視音樂,rtmp://118.163.221.79/channel/60ecdae3020b42a2f634be09?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC5,rtmp://104.149.187.154/channel/61619b4a295d84395bae0a55?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-山東衛視,rtmp://118.163.221.79/channel/60ecdb04020b42a2f634be0b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC6,rtmp://104.149.188.82/channel/61619b79295d84395bae0aee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-星空衛視,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC7,rtmp://104.149.188.82/channel/61619e82295d84395bae12df?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-勁爆體育,rtmp://118.163.221.79/channel/61003572f0618408855f3732?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC8,rtmp://104.149.188.82/channel/61619eb2295d84395bae1347?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-J5,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c64?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC9,rtmp://104.149.188.82/channel/61619ee5295d84395bae13c1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-J2,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c66?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC10,rtmp://104.149.188.82/channel/61619f13295d84395bae1440?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Viu TV,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c68?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC11 Thiếu Nhi,rtmp://104.149.188.82/channel/61619f43295d84395bae14b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VIUSIX,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c5e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC12,rtmp://104.149.188.82/channel/6161a15d295d84395bae1bf2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-罪案,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d34?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-明珠,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VTC13,rtmp://104.149.188.82/channel/6161a18a295d84395bae1c91?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-互動新聞,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vĩnh Long 4,rtmp://104.149.188.82/channel/6161a1b2295d84395bae1d1b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-翡翠,rtmp://104.149.153.106/channel/60b4e50239e1b02e8b910c60?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Travel & Living,rtmp://104.149.188.82/channel/6161a1d9295d84395bae1d79?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-公視3,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c3e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Animal Planet,rtmp://104.149.188.82/channel/6161a1fe295d84395bae1de1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Discovery Asia,rtmp://104.149.188.82/channel/6161a22b295d84395bae1e5b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVBS歡樂台,rtmp://45.88.148.178/channel/611a81c23e4da143c0159876?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Discovery,rtmp://104.149.188.82/channel/6161a261295d84395bae1ee0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-信大,rtmp://45.88.148.178/channel/611a823b3e4da143c0159878?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-台視綜合,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c4a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ABC Australia,rtmp://104.149.188.82/channel/6161a2ce295d84395bae1ffb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-台視財經,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c48?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bloomberg,rtmp://104.149.188.82/channel/6161a330295d84395bae212f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Thrill,rtmp://118.163.221.79/channel/60c30d59961593122ebaf8e6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華視體育文化教育,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC Lifestyle,rtmp://104.149.191.182/channel/6161a5b8295d84395bae2802?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-公視2,rtmp://118.163.221.79/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC News,rtmp://104.149.191.182/channel/6161a66f295d84395bae2a3b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華視資訊,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC Earth,rtmp://104.149.191.182/channel/6161a69d295d84395bae2ab7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中視經典,rtmp://118.163.221.79/channel/60c31708961593122ebaf902?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CNN,rtmp://104.149.191.182/channel/6161a6d4295d84395bae2b28?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Baby First,rtmp://104.149.191.182/channel/6161a774295d84395bae2cb2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-全大電視台,rtmp://45.88.148.178/channel/611a82af3e4da143c015987a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bắc Ninh,rtmp://104.149.191.182/channel/6161a7a7295d84395bae2d41?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華藝影劇,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910cfc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-中視菁采,rtmp://118.163.221.79/channel/60c3173a961593122ebaf904?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-SBTN,rtmp://104.149.191.182/channel/6161a7d6295d84395bae2dce?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FILM24H,rtmp://104.149.191.182/channel/6161a80d295d84395bae2e51?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-冠軍電視台,rtmp://45.88.148.178/channel/611a83133e4da143c015987c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HONVIE TV,rtmp://104.149.191.182/channel/6161a840295d84395bae2eca?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-龍華戲劇,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910d18?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-S Channel,rtmp://104.149.191.182/channel/6161a873295d84395bae2f57?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-民視第一台,rtmp://202.39.64.233/channel/60c317e8961593122ebaf90c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Tviet Network,rtmp://104.149.191.182/channel/6161a8a6295d84395bae2fea?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-民視台灣台,rtmp://220.130.68.152/channel/60c31843961593122ebaf910?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VGN TV,rtmp://104.149.191.182/channel/6161a901295d84395bae30e4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-國會頻道1,rtmp://45.92.126.226/channel/60c3452b961593122ebaf9a4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vien Thao TV,rtmp://104.149.191.182/channel/6161a92e295d84395bae3178?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-國會頻道2,rtmp://45.92.126.226/channel/60c34558961593122ebaf9a6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vietface TV,rtmp://104.149.191.182/channel/6161a95c295d84395bae31fc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VIE TV,rtmp://104.149.191.182/channel/6161a98b295d84395bae328b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-台視新聞,rtmp://220.130.68.152/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel1,rtmp://104.149.153.106/channel/61626c96295d84395baf429e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel2,rtmp://104.149.153.106/channel/61626d50295d84395baf43b7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-生命電視臺,rtmp://118.163.221.79/channel/60b4e50239e1b02e8b910c54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel3,rtmp://104.149.153.106/channel/61626d89295d84395baf43f7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-華藏衛星電視臺,rtmp://220.130.68.152/channel/60b4e50239e1b02e8b910c56?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel4,rtmp://104.149.153.106/channel/61626dc0295d84395baf445b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel5,rtmp://104.149.153.106/channel/61626dee295d84395baf44ac?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel6,rtmp://104.149.153.106/channel/61626e27295d84395baf4520?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-大愛2,rtmp://61.216.43.210/channel/60c3441b961593122ebaf99a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel7,rtmp://104.149.153.106/channel/61626e4d295d84395baf4578?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel8,rtmp://104.149.153.106/channel/61626e79295d84395baf45c5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel9,rtmp://104.149.153.106/channel/61626ea7295d84395baf461c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Channel10,rtmp://104.149.153.106/channel/61626ecf295d84395baf466d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Trans7,rtmp://104.149.138.98/channel/6162961c295d84395baf862c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-RTV,rtmp://104.149.138.98/channel/6162963b295d84395baf865d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-EWTN,rtmp://104.149.138.98/channel/61629661295d84395baf8696?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MNC TV,rtmp://104.149.138.98/channel/616296a5295d84395baf86f7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TransTV,rtmp://104.149.138.98/channel/616296cf295d84395baf8724?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-RCTI,rtmp://104.149.138.98/channel/61629711295d84395baf877b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TV One,rtmp://104.149.138.98/channel/61629751295d84395baf87ce?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ANTV,rtmp://104.149.138.98/channel/61629781295d84395baf8824?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-IDX,rtmp://104.149.138.98/channel/616297a5295d84395baf8881?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MY-Useesport1,rtmp://104.149.138.98/channel/616297c8295d84395baf88ce?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MNC Sport,rtmp://104.149.138.98/channel/616297ef295d84395baf891a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Champions 2,rtmp://104.149.138.98/channel/61629825295d84395baf897e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Champions 1,rtmp://104.149.138.98/channel/616298ee295d84395baf8adb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Celestial Movies,rtmp://104.149.138.98/channel/61629917295d84395baf8b1a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CNN,rtmp://104.149.138.98/channel/6162993c295d84395baf8b5b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-KBS World,rtmp://104.149.184.98/channel/6162c0c4295d84395bafd06b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Hits Movies,rtmp://104.149.184.98/channel/6162c0ee295d84395bafd0b5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC Lifestyle,rtmp://104.149.184.98/channel/6162c110295d84395bafd0ef?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Waku-Waku,rtmp://104.149.184.98/channel/6162c136295d84395bafd139?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bali TV,rtmp://104.149.184.98/channel/6162c1a8295d84395bafd203?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TV9 NU,rtmp://104.149.184.98/channel/6162c1cd295d84395bafd24a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Tawaf TV,rtmp://104.149.184.98/channel/6162c1f8295d84395bafd298?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Dunia anak,rtmp://104.149.184.98/channel/6162c21e295d84395bafd2cb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Flik,rtmp://104.149.184.98/channel/6162c245295d84395bafd31e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVMu,rtmp://104.149.184.98/channel/6162c26e295d84395bafd369?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Entertainment,rtmp://104.149.184.98/channel/6162c294295d84395bafd3b8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TLC,rtmp://104.149.184.98/channel/6162c2b6295d84395bafd3fb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Infotainment,rtmp://104.149.184.98/channel/6162c2d9295d84395bafd432?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Dunia Lain,rtmp://104.149.184.98/channel/6162c302295d84395bafd4ab?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Fox Movies Action,rtmp://104.149.184.98/channel/6162c327295d84395bafd4da?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FOX Movie,rtmp://104.149.186.246/channel/6162c3f2295d84395bafd642?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-SCM,rtmp://104.149.186.246/channel/6162c41a295d84395bafd68d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Crime Investigation,rtmp://104.149.186.246/channel/6162c43e295d84395bafd6d0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Nat Geo,rtmp://104.149.186.246/channel/6162c491295d84395bafd785?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MNC Sports 2,rtmp://104.149.186.246/channel/6162c4d2295d84395bafd819?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Hits,rtmp://104.149.186.246/channel/6162c501295d84395bafd862?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MNC Shop Smart,rtmp://104.149.186.246/channel/6162c521295d84395bafd8ab?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Cartoon Network,rtmp://104.149.186.246/channel/6162c548295d84395bafd8e4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Animal palnet,rtmp://104.149.186.246/channel/6162c9d7295d84395bafe1d1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Daai TV,rtmp://104.149.186.246/channel/6162c9fd295d84395bafe222?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CCM,rtmp://104.149.186.246/channel/6162ca27295d84395bafe28d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Zee Bioskop,rtmp://104.149.186.246/channel/6162ca4a295d84395bafe2d6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-NET,rtmp://104.149.186.246/channel/6162ca6f295d84395bafe325?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FOXLife,rtmp://104.149.186.246/channel/6162ca91295d84395bafe37c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ABC Australia,rtmp://104.149.186.246/channel/6162cab5295d84395bafe3cb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-SCTV,rtmp://104.149.187.154/channel/6162cbaa295d84395bafe594?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MNC Shop Trendy,rtmp://104.149.187.154/channel/6162cbd4295d84395bafe5dc?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Jak TV,rtmp://104.149.187.154/channel/6162cbfc295d84395bafe628?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Besmart,rtmp://104.149.187.154/channel/6162cc2e295d84395bafe690?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Berita Satu,rtmp://104.149.187.154/channel/6162cc72295d84395bafe6fe?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Lifetime,rtmp://104.149.187.154/channel/6162cc92295d84395bafe730?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Discovery Channel,rtmp://104.149.187.154/channel/6162ccb5295d84395bafe75d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Kompastv,rtmp://104.149.187.154/channel/6162ccd8295d84395bafe793?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Metrotv,rtmp://104.149.187.154/channel/6162ccf6295d84395bafe7cd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MY-FOX Family Mov,rtmp://104.149.187.154/channel/6162cd18295d84395bafe811?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Fox Crime Mov,rtmp://104.149.187.154/channel/6162cd47295d84395bafe862?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Disney Junior,rtmp://104.149.187.154/channel/6162cdbb295d84395bafe976?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-FMN,rtmp://104.149.187.154/channel/6162cde8295d84395bafe9bf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Fight Sports,rtmp://104.149.187.154/channel/6162ce07295d84395bafe9f5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO Hits,rtmp://104.149.187.154/channel/6162ce29295d84395bafea30?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO Singature,rtmp://104.149.188.82/channel/6162cec7295d84395bafeb73?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO Family,rtmp://104.149.188.82/channel/6162ceef295d84395bafebcf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-OKTV,rtmp://104.149.188.82/channel/6162cf14295d84395bafec20?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Vision Prime,rtmp://104.149.188.82/channel/6162d071295d84395bafef55?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-MNC News,rtmp://104.149.188.82/channel/6162d095295d84395bafefa1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-AXN,rtmp://104.149.188.82/channel/6162d0c6295d84395baff01b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-History,rtmp://104.149.188.82/channel/6162d0f2295d84395baff088?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HGTV,rtmp://104.149.188.82/channel/6162d2ae295d84395baff4ee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-iNews,rtmp://104.149.188.82/channel/6162d2d6295d84395baff566?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Indosiar,rtmp://104.149.188.82/channel/6162d309295d84395baff5ee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Muslin,rtmp://104.149.188.82/channel/6162d33a295d84395baff65f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Cbeebies,rtmp://104.149.188.82/channel/6162d377295d84395baff705?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-France 24,rtmp://104.149.188.82/channel/6162d3b5295d84395baff7b2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Thrill,rtmp://104.149.188.82/channel/6162d3df295d84395baff820?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HBO,rtmp://104.149.188.82/channel/6162d414295d84395baff8bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Sky News,rtmp://104.149.191.182/channel/6162d5ad295d84395baffcee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-GTV,rtmp://104.149.191.182/channel/6162d5de295d84395baffd81?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Music TV,rtmp://104.149.191.182/channel/6162d60f295d84395baffe01?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-CINEMAX,rtmp://104.149.191.182/channel/6162d63d295d84395baffed0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Bein Sport 1,rtmp://104.149.191.182/channel/6162d678295d84395bafffab?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Natgeo Wild,rtmp://104.149.191.182/channel/6162d6a2295d84395bb00029?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Warner TV,rtmp://104.149.191.182/channel/6162d6da295d84395bb000d5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVN,rtmp://104.149.191.182/channel/6162d70f295d84395bb001a9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-TVNM,rtmp://104.149.191.182/channel/6162d733295d84395bb00220?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Al Quran Al Karem,rtmp://104.149.191.182/channel/6162d759295d84395bb00291?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Al Quran Al Karem,rtmp://104.149.191.182/channel/6162d783295d84395bb00307?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-KIX,rtmp://104.149.191.182/channel/6162d7ab295d84395bb00387?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-BBC Earth,rtmp://104.149.191.182/channel/6162d7cf295d84395bb003e1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Cinema World,rtmp://104.149.191.182/channel/6162d7f4295d84395bb00451?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Russia Today,rtmp://104.149.191.182/channel/6162d817295d84395bb004bf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-ZEE TV,rtmp://104.149.153.106/channel/6162d841295d84395bb0054e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-HAPPY,rtmp://45.92.126.226/channel/60e5a862c47203d3a673d5ee?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-彩虹E台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-松視一,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-松視二,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-松視三,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-K頻道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-潘朵拉完美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-Look HD,rtmp://45.83.118.242/channel/60ecdf7f020b42a2f634be25?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-彩虹电影台,rtmp://202.39.64.233/channel/60ed7124020b42a2f634bfe5?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-潘朵拉粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-驚艷台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-JSTAR極限台,rtmp://45.92.126.226/channel/60fa6d9b8dfe8209677fdb20?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-香草天道,rtmp://118.163.221.79/channel/6130ff36c6f62a25d2da217d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-性愛教主,rtmp://118.163.221.79/channel/6131004fc6f62a25d2da2185?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-VENUS,rtmp://118.163.221.79/channel/61310094c6f62a25d2da2187?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-做愛特教班,rtmp://118.163.221.79/channel/613100d2c6f62a25d2da2189?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-奶奶按摩店,rtmp://118.163.221.79/channel/6131010cc6f62a25d2da218b?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-AV女王,rtmp://118.163.221.79/channel/61310232c6f62a25d2da218d?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-人妻不倫,rtmp://118.163.221.79/channel/6131027ac6f62a25d2da218f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-水多多,rtmp://118.163.221.79/channel/613102e2c6f62a25d2da2191?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-近親相姦,rtmp://118.163.221.79/channel/61319ab6c6f62a25d2da21b6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-彩虹通道,rtmp://118.163.221.79/channel/61319b25c6f62a25d2da21b8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-PLAYBOY,rtmp://118.163.221.79/channel/61319b62c6f62a25d2da21ba?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-KMP,rtmp://118.163.221.79/channel/61319ba0c6f62a25d2da21bd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-午夜蓝,rtmp://118.163.221.79/channel/61319c1cc6f62a25d2da21bf?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-櫻桃,rtmp://118.163.221.79/channel/61319cdfc6f62a25d2da21c3?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-大學女援交妹,rtmp://118.163.221.79/channel/613221dbc6f62a25d2da21d0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
-做愛輸入,rtmp://202.39.64.233/channel/613229bec6f62a25d2da21e2?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplr7ATLZLRyWVY5FMcL%2BMNUTQTKdgbeQbS9jvivUzVId6
+
 
