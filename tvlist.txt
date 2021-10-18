@@ -1,32 +1,3 @@
-稳定自用,#genre#
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线财经,http://ye23.win/iptv/tvb.php?id=2
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-無綫財經,https://cdn.hkdtmb.com/hls/85/index.m3u8
-無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-Pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8
-广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
-广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
-广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
-广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
-广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
-南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
-广州法治,http://www.nettvpro.live/hls/guangzhou.php?id=fazhi
-南国都市4K,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
-广州影视,http://www.nettvpro.live/hls/guangzhou.php?id=yingshi
-广州竞赛,http://www.nettvpro.live/hls/guangzhou.php?id=jingsai
-番禺综合,http://live.pybtv.cn:80/channel1/sd/live.m3u8
-增城新闻,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
-广东国际,http://111.161.121.214/nclive.grtn.cn/gjpd/sd/live.m3u8
-广东房产,https://szlive.grtn.cn/fcpd/sd/live.m3u8?_upt=a179d6241602057601
-广东影视,http://111.161.121.214/nclive.grtn.cn/tvs4/sd/live.m3u8
-广东综艺,http://111.161.121.214/nclive.grtn.cn/4K/sd/live.m3u8
-广东少儿,http://111.161.121.214/nclive.grtn.cn/tvs5/sd/live.m3u8
-广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
-经济科教,http://111.161.121.214/nclive.grtn.cn/tvs1hd/hd/live.m3u8
-岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-
 🇨🇳央视频道,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 央视新闻,https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
@@ -62,7 +33,6 @@ CCTV-9纪录,http://124.232.231.246:6610/000000001001/201500000131/index.m3u8?IA
 CCTV-10科教,http://124.232.231.246:6610/000000001001/201500000132/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2$长沙电信8M
 CCTV-12社会与法,http://124.232.231.246:6610/000000001001/201500000133/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2$长沙电信8M
 CCTV-14少儿,http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2$长沙电信8M
-
 CCTV-1综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil$福建8M
 CCTV-2财经,rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil$福建8M
 CCTV-4国际,rtsp://183.252.166.199/PLTV/88888888/224/3221226633/40417241.smil$福建8M
@@ -234,6 +204,35 @@ CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8$江西宜春4M
 CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8$江西宜春4M
 CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8$江西宜春8M
+
+稳定自用,#genre#
+无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线财经,http://ye23.win/iptv/tvb.php?id=2
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+無綫財經,https://cdn.hkdtmb.com/hls/85/index.m3u8
+無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+Pearl,https://cdn.hkdtmb.com/hls/84/index.m3u8
+广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
+广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
+广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
+广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
+广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
+南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
+广州法治,http://www.nettvpro.live/hls/guangzhou.php?id=fazhi
+南国都市4K,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
+广州影视,http://www.nettvpro.live/hls/guangzhou.php?id=yingshi
+广州竞赛,http://www.nettvpro.live/hls/guangzhou.php?id=jingsai
+番禺综合,http://live.pybtv.cn:80/channel1/sd/live.m3u8
+增城新闻,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
+广东国际,http://111.161.121.214/nclive.grtn.cn/gjpd/sd/live.m3u8
+广东房产,https://szlive.grtn.cn/fcpd/sd/live.m3u8?_upt=a179d6241602057601
+广东影视,http://111.161.121.214/nclive.grtn.cn/tvs4/sd/live.m3u8
+广东综艺,http://111.161.121.214/nclive.grtn.cn/4K/sd/live.m3u8
+广东少儿,http://111.161.121.214/nclive.grtn.cn/tvs5/sd/live.m3u8
+广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
+经济科教,http://111.161.121.214/nclive.grtn.cn/tvs1hd/hd/live.m3u8
+岭南戏曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
 
 📺卫视频道,#genre#
 东南卫视 HD,rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil$福建8M
