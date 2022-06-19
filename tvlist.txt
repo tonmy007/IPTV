@@ -112,4 +112,16 @@ RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
 Now新闻台,P2p://ns2.hellotvvod.com:9906/e074cec9413d4983884ba969237444ef.ts
 Now直播台,P2p://ns2.hellotvvod.com:9906/f52742d3adbe46259071dc4094f0b897.ts
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=m02000000000012865686&ct=17955&tsum=9e51c9e9e3a6cd6bf4d30373674a6e7b
+亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+无线新闻,http://hls.dszbdq.cn/d/wxtv2.php?id=1
+无线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻,http://198.204.239.194:27347/livehlsplay?channel_id=30024
+无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有线新闻,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
+环宇新闻,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+环宇新闻,http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+寰宇新闻,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 
