@@ -1,12 +1,14 @@
 🇭🇰自用频道,#genre#
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 无线财经,http://ye23.win/iptv/tvb.php?id=2
-南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo
+南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo?zguangd
+南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
 广州法制,http://ye23.win/iptv/gztv.php?id=fazhi
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
+广东珠江, http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT#http://hongyanqiang.top/chudian.php?id=gdzj
 
 🇭🇰珠江宽频,#genre#
 CCTV1,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=0&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -92,6 +94,9 @@ CCTV-17农业农村,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/322
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$蓝光画质
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$蓝光画质
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$蓝光画质
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 翡翠台,http://113.64.147.52:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.54:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.56:808/hls/25/index.m3u8
