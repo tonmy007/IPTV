@@ -237,10 +237,91 @@
       "filterable": 0
     },
     {
+      "key": "奶插",
+      "name": "奶插[晴园]",
+      "type": 1,
+      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "点点",
       "name": "点点[晴园]",
       "type": 0,
       "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "小姐1",
+      "name": "小姐姐[晴园]",
+      "type": 0,
+      "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml/m3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "屌丝",
+      "name": "屌丝[晴园]",
+      "type": 0,
+      "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "色窝",
+      "name": "色窝[晴园]",
+      "type": 1,
+      "api": "https://sewozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "佳丽",
+      "name": "佳丽[晴园]",
+      "type": 1,
+      "api": "http://www.jializyzapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "小湿妹",
+      "name": "小湿妹[晴园]",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "香奶儿",
+      "name": "香奶儿[晴园]",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "鲍鱼",
+      "name": "鲍鱼[晴园]",
+      "type": 0,
+      "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "咪咪",
+      "name": "咪咪[晴园]",
+      "type": 0,
+      "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -332,6 +413,15 @@
       "filterable": 0
     },
     {
+      "key": "大MM",
+      "name": "大MM[晴园]",
+      "type": 0,
+      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "白嫖",
       "name": "白嫖[晴园]",
       "type": 0,
@@ -365,6 +455,24 @@
             "playUrl": "",
             "categories": []
         },
+{
+      "key": "哥哥妹妹",
+      "name": "哥哥妹妹[晴园]",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "AVZY",
+      "name": "AVZY[晴园]",
+      "type": 1,
+      "api": "http://m.7777688.com/inc/apijson.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }   
   ],
   "lives": [ {
 		"group": "CCTV",
