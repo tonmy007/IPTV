@@ -14,6 +14,7 @@
 🇼🇸香港,#genre#
 無綫新聞(1080p),mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 无线新闻(1080p),p2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d.ts
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?WithCaption
 
 🇼🇸台湾,#genre#
 中天新聞,https://ytb.52sf.ga/jmsytb.m3u8?c=1
