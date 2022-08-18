@@ -11,7 +11,7 @@
 广州法制,http://ye23.win/iptv/gztv.php?id=fazhi
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
-广东珠江, http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT#http://hongyanqiang.top/chudian.php?id=gdzj
+广东珠江,http://120.237.252.67:8800/hls/2/index.m3u8
 
 🇼🇸香港,#genre#
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
