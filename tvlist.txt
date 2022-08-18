@@ -6,14 +6,13 @@
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo?zguangd
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
-广州新闻,http://py.fatcat.icu:8880/hls/116/index.m3u8
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
-广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+广州新闻,http://py.fatcat.icu:8880/hls/116/index.m3u8
 广州法制,http://ye23.win/iptv/gztv.php?id=fazhi
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
-广东珠江,http://py.fatcat.icu:8880/hls/2/index.m3u8
 广东珠江,http://120.237.252.67:8800/hls/2/index.m3u8
+广东珠江,http://py.fatcat.icu:8880/hls/2/index.m3u8
 广东卫视,http://py.fatcat.icu:8880/hls/1/index.m3u8
 广东体育,http://py.fatcat.icu:8880/hls/5/index.m3u8
 
