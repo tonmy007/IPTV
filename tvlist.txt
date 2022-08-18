@@ -1,6 +1,8 @@
 🇭🇰自用频道,#genre#
-无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线新闻(群晖),http://192.168.1.254:8080/tvb.php?id=1
+无线财经(群晖),http://192.168.1.254:8080/tvb.php?id=2
+无线新闻(本地),http://127.0.0.1:8080/tvb.php?id=1
+无线财经(本地),http://127.0.0.1:8080/tvb.php?id=2
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo?zguangd
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
@@ -12,8 +14,8 @@
 广东珠江, http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT#http://hongyanqiang.top/chudian.php?id=gdzj
 
 🇼🇸香港,#genre#
-无线新闻(自建),http://127.0.0.1:8080/tvb.php?id=1
-无线财经(自建),http://127.0.0.1:8080/tvb.php?id=2
+无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+无线新闻,http://ye23.win/iptv/tvb.php?id=1
 TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 TVB J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
 TVB無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
