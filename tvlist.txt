@@ -27,6 +27,24 @@
 广东新闻,http://120.237.252.67:8800/hls/3/index.m3u8
 广东公共,http://120.237.252.67:8800/hls/4/index.m3u8
 
+🇭🇭广东组播代理,#genre#
+广东南方HD,http://fxhack.f3322.org:8000/udp/239.77.0.215:5146
+广东南方HD标清,http://fxhack.f3322.org:8000/udp/239.77.0.9:5146
+广东体育HD,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
+广东体育标清,http://fxhack.f3322.org:8000/udp/239.77.0.6:5146
+广东公共HD,http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
+广东公共HD标清,http://fxhack.f3322.org:8000/udp/239.77.0.5:5146
+广东新闻HD,http://fxhack.f3322.org:8000/udp/239.77.0.4:5146
+广东珠江HD,http://fxhack.f3322.org:8000/udp/239.77.0.01:5146#http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
+广东珠江标清,http://fxhack.f3322.org:8000/udp/239.77.0.3:5146
+岭南戏曲,http://fxhack.f3322.org:8000/udp/239.77.0.16:5146
+广州综合,http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146
+广州新闻,http://ct.whosayssowhat.top:4022/udp/239.253.43.72:5146
+广州影视,http://ct.whosayssowhat.top:4022/udp/239.253.43.73:5146
+广州法治,http://ct.whosayssowhat.top:4022/udp/239.253.43.74:5146
+广州竞赛,http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
+南国都市,http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
+
 🇼🇸香港,#genre#
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
