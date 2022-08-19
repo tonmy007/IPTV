@@ -5,6 +5,7 @@
 无线财经(本地),http://127.0.0.1:8080/tvb.php?id=2
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo?zguangd
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
+广东综艺4K,http://120.237.252.67:8800/hls/10/index.m3u8
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
 广州新闻,http://py.fatcat.icu:8880/hls/116/index.m3u8
@@ -13,8 +14,13 @@
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
 广东珠江,http://120.237.252.67:8800/hls/2/index.m3u8
 广东珠江,http://py.fatcat.icu:8880/hls/2/index.m3u8
+广东卫视,http://120.237.252.67:8800/hls/1/index.m3u8
 广东卫视,http://py.fatcat.icu:8880/hls/1/index.m3u8
+广东体育,http://120.237.252.67:8800/hls/5/index.m3u8
 广东体育,http://py.fatcat.icu:8880/hls/5/index.m3u8
+经济科教,http://120.237.252.67:8800/hls/7/index.m3u8
+广东新闻,http://120.237.252.67:8800/hls/3/index.m3u8
+广东公共,http://120.237.252.67:8800/hls/4/index.m3u8
 
 🇼🇸香港,#genre#
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
