@@ -35,7 +35,8 @@
 广东公共HD,http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
 广东公共HD标清,http://fxhack.f3322.org:8000/udp/239.77.0.5:5146
 广东新闻HD,http://fxhack.f3322.org:8000/udp/239.77.0.4:5146
-广东珠江HD,http://fxhack.f3322.org:8000/udp/239.77.0.01:5146#http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
+广东珠江HD,http://fxhack.f3322.org:8000/udp/239.77.0.01:5146
+广东珠江HD,http://fxhack.f3322.org:8000/udp/239.77.0.114:5146
 广东珠江标清,http://fxhack.f3322.org:8000/udp/239.77.0.3:5146
 岭南戏曲,http://fxhack.f3322.org:8000/udp/239.77.0.16:5146
 广州综合,http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146
