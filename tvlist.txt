@@ -11,7 +11,6 @@
 广州影视,http://ct.whosayssowhat.top:4022/udp/239.253.43.73:5146
 广州法治,http://ct.whosayssowhat.top:4022/udp/239.253.43.74:5146
 广州竞赛,http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
-南国都市,http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
 广州新闻,http://py.fatcat.icu:8880/hls/116/index.m3u8
