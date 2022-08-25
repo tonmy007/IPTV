@@ -12,6 +12,7 @@
 广州法制,http://ye23.win/iptv/gztv.php?id=fazhi
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
+广东珠江,http://121.33.239.242:9901/tsfile/live/1002_1.m3u8
 广东珠江,http://120.237.252.67:8800/hls/2/index.m3u8
 广东珠江,http://py.fatcat.icu:8880/hls/2/index.m3u8
 广东卫视,http://120.237.252.67:8800/hls/1/index.m3u8
