@@ -1,4 +1,18 @@
 🇭🇰自用频道,#genre#
+翡翠台,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
+翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
+翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
+翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
+翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
+翡翠台,http://113.64.147.72:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.86:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.104:808/hls/67/index.m3u8 
+翡翠台,http://diyp-diyp.tk/xyoutube819.php?id=78&p=0&c=3
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+翡翠台,http://154.204.182.11:9906/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 无线新闻(群晖),http://192.168.1.254:8080/tvb.php?id=1
 无线财经(群晖),http://192.168.1.254:8080/tvb.php?id=2
 无线新闻(1080P),http://192.168.1.254:8080/tvb1080.php?id=1
