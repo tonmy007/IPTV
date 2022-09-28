@@ -12,7 +12,7 @@
 广东综艺4K,http://120.237.252.67:8800/hls/10/index.m3u8
 广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
-广州新闻,http://py.fatcat.icu:8880/hls/116/index.m3u8
+广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 广州法制,http://ye23.win/iptv/gztv.php?id=fazhi
 广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai
 广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
