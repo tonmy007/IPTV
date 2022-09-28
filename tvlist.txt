@@ -33,7 +33,6 @@
 🇭🇭广东组播代理,#genre#
 广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.3:5146
 广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
-
 广东南方HD,http://fxhack.f3322.org:8000/udp/239.77.0.215:5146
 广东南方HD标清,http://fxhack.f3322.org:8000/udp/239.77.0.9:5146
 广东体育HD,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
@@ -51,6 +50,59 @@
 广州法治,http://ct.whosayssowhat.top:4022/udp/239.253.43.74:5146
 广州竞赛,http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
 南国都市,http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
+
+🇭🇭加州,#genre#
+凤凰资讯,http://173.211.42.73:8278/phoenixinfo_hd/playlist.m3u8?tid=MEAE2353137123531371&ct=19234&tsum=0627df820681c10cef07745ec4493f51
+凤凰中文,http://173.211.42.73:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
+凤凰香港,http://173.211.42.73:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
+翡翠台,http://173.211.42.73:8278/jade_twn/playlist.m3u8?tid=MAAA6189111161891111&ct=19234&tsum=dc766fd3aeadaf6a07b3cb73234ddb69
+TVB星河频道,http://173.211.42.73:8278/tvbxinhe_twn/playlist.m3u8?tid=MD4D7093688370936883&ct=19234&tsum=9fe356d10938b8f7705283827f796703
+无线新闻,http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MB0B4543899545438995&ct=19234&tsum=218643458e286062c19c3a55f8b64117
+VIUTV6,http://173.211.42.73:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+ViuTV,http://173.211.42.73:8278/viu_twn/playlist.m3u8?tid=MBAB6637081866370818&ct=19234&tsum=d0e7863daa0324e437cae5ec16fb1b4f
+RTHK32,http://173.211.42.73:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
+RTHK31,http://173.211.42.73:8278/rhk31_twn/playlist.m3u8?tid=MEFE5444496454444964&ct=19234&tsum=d47d918a346b323bcbbbce0dac0192c5
+中天新闻,http://173.211.42.73:8278/ctinews/playlist.m3u8?tid=MA4A1988185419881854&ct=19234&tsum=c813889a5aa08307ed2da85640a5280b
+中天亚洲台,http://173.211.42.73:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
+中视新闻,http://173.211.42.73:8278/zhongshinews_twn/playlist.m3u8?tid=MECE2153391221533912&ct=19234&tsum=fe5df13ec0ca4298acf881a53128f2cd
+中视经典,http://173.211.42.73:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
+台视新闻台,http://173.211.42.73:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+年代新闻台,http://173.211.42.73:8278/niandainews_twn/playlist.m3u8?tid=ME7E9182640991826409&ct=19234&tsum=4bc66c7c1f629232c2c2ce6aa7d024a5
+民视新闻台,http://173.211.42.73:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
+民视台湾台,http://173.211.42.73:8278/ftvtaiwan_twn/playlist.m3u8?tid=ME1E7840524878405248&ct=19234&tsum=2f1d9e430f55fa8a953df69b021c4c36
+民视第一台,http://173.211.42.73:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC3C1265283912652839&ct=19234&tsum=4ccb0d02f19e4fabf66e28d18b606f6c
+卫视中文台,http://173.211.42.73:8278/weishichinese_twn/playlist.m3u8?tid=MADA3405227034052270&ct=19234&tsum=c34dd09cd30ff781054a12c1a06ab0f6
+非凡新闻台,http://173.211.42.73:8278/feifannews_twn/playlist.m3u8?tid=MACA3363565933635659&ct=19234&tsum=ec8caeb654e3121f9bb3ed39b1759999
+
+东森新闻,http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
+东森戏剧,http://173.211.42.73:8278/ettvdrama/playlist.m3u8?tid=MFBF4367295743672957&ct=19234&tsum=de5315ac3cf9b1b8ff44e5a9e3ad16a9
+东森电影台,http://173.211.42.73:8278/ettvmovie/playlist.m3u8?tid=MECE7715898977158989&ct=19234&tsum=a663a2e65f2d50fefd2d6b096f9e3f02
+东森财经新闻台,http://173.211.42.73:8278/ettvcaijing_twn/playlist.m3u8?tid=MEFE2625686426256864&ct=19234&tsum=c294dfaad2db8dd9c4cf483c6888b31b
+TVBS新闻台,http://173.211.42.73:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
+TVBS欢乐台,http://173.211.42.73:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+TVBS,http://173.211.42.73:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
+TVBS,http://173.211.42.73:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+龙华洋片,http://173.211.42.73:8278/lunghuawestern_twn/playlist.m3u8?tid=MF7F3761146937611469&ct=19234&tsum=e8b375d0c73fff5a34a7e3b4de2f53bb
+龙华戏剧,http://173.211.42.73:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
+龙华偶像,http://173.211.42.73:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&ct=19234&tsum=792a8d573313f22d3bd8670148df20cb
+龙华经典,http://173.211.42.73:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+靖天资讯台,http://173.211.42.73:8278/jingtianinfo_twn/playlist.m3u8?tid=MBFB7100898871008988&ct=19234&tsum=cd02130899a561b050b99fae09d6745f
+靖天卡通台,http://173.211.42.73:8278/jingtiancartoon_twn/playlist.m3u8?tid=ME5E1118588611185886&ct=19234&tsum=9c155f39f9a4dcbe438a21f39a33ce77
+大爱一台,http://173.211.42.73:8278/daai_twn/playlist.m3u8?tid=MA0A6700404967004049&ct=19234&tsum=dbfb051e0bfc38759da1cee228ea083a
+好消息2台,http://173.211.42.73:8278/good2_twn/playlist.m3u8?tid=MF7F2484252924842529&ct=19234&tsum=3f17f48e29aab8f5ba41d7dcd093e4de
+纬来体育台,http://173.211.42.73:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+天映频道,http://173.211.42.73:8278/Celestial/playlist.m3u8?tid=MB0B9965728799657287&ct=19234&tsum=58be4ca2b0bc94038a6bc33b46fcf71f
+天映经典,http://173.211.42.73:8278/Celestial/playlist.m3u8?tid=MB0B2157151121571511&ct=19234&tsum=c9c3caceba37a7a551532f3e154e81c8
+美亚电影,http://173.211.42.73:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
+好莱坞电影,http://173.211.42.73:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
+探索动力,http://173.211.42.73:8278/discoveryturbo_twn/playlist.m3u8?tid=MF5F8215931682159316&ct=19234&tsum=a8061ab2a43f8691406f2c4972814551
+探索频道,http://173.211.42.73:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
+探索科学频道,http://173.211.42.73:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
+国家地理野生,http://173.211.42.73:8278/natgeowild_twn/playlist.m3u8?tid=MEDE7756748177567481&ct=19234&tsum=5005bc52f91ccd5c2c4b5d2d5bafeafe
+美食星球,http://173.211.42.73:8278/foodplanet_twn/playlist.m3u8?tid=MADA1874549618745496&ct=19234&tsum=1a26f3cc623666b6bd2e40d2c16c214d
+博斯运动2台,http://173.211.42.73:8278/bosisport2_twn/playlist.m3u8?tid=ME1E5579129055791290&ct=19234&tsum=7cd9f5d3ef18948f4e6fc12f69e2279e
+博斯魅力网,http://173.211.42.73:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
+TLC旅游生活频道,http://173.211.42.73:8278/tlc_twn/playlist.m3u8?tid=ME1E5068508050685080&ct=19234&tsum=792da233e8fd44ab7b013a6faee25edf
 
 🇼🇸香港,#genre#
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
