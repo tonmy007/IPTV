@@ -295,6 +295,53 @@ TVB無綫財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
 无线新闻(1080p),p2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d.ts
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?WithCaption
 
+🇼🇸揭阳酒店电信源,#genre#
+翡翠台,http://192.168.1.254:8080/jiudian.php?tvid=tvb
+广东体育高清,http://192.168.1.254:8080/jiudian.php?tvid=gdty
+CCTV1,http://192.168.1.254:8080/jiudian.php?tvid=cctv1
+CCTV2,http://192.168.1.254:8080/jiudian.php?tvid=cctv2
+CCTV3,http://192.168.1.254:8080/jiudian.php?tvid=cctv3
+CCTV4,http://192.168.1.254:8080/jiudian.php?tvid=cctv4
+CCTV5,http://192.168.1.254:8080/jiudian.php?tvid=cctv5
+CCTV5+,http://192.168.1.254:8080/jiudian.php?tvid=cctv5p
+CCTV6,http://192.168.1.254:8080/jiudian.php?tvid=cctv6
+CCTV7,http://192.168.1.254:8080/jiudian.php?tvid=cctv7
+CCTV8,http://192.168.1.254:8080/jiudian.php?tvid=cctv8
+CCTV9,http://192.168.1.254:8080/jiudian.php?tvid=cctv9
+CCTV10,http://192.168.1.254:8080/jiudian.php?tvid=cctv10
+CCTV12,http://192.168.1.254:8080/jiudian.php?tvid=cctv12
+CCTV15,http://192.168.1.254:8080/jiudian.php?tvid=cctv15
+电视剧频道,http://192.168.1.254:8080/jiudian.php?tvid=dsjpd
+凤凰HD,http://192.168.1.254:8080/jiudian.php?tvid=fhhd
+凤凰直播,http://192.168.1.254:8080/jiudian.php?tvid=fhzb
+凤凰香港,http://192.168.1.254:8080/jiudian.php?tvid=fhxg
+揭西综合频道,http://192.168.1.254:8080/jiudian.php?tvid=jxzh
+广东卫视,http://192.168.1.254:8080/jiudian.php?tvid=gdws
+湖南卫视,http://192.168.1.254:8080/jiudian.php?tvid=hnws
+浙江卫视,http://192.168.1.254:8080/jiudian.php?tvid=zjws
+江苏卫视,http://192.168.1.254:8080/jiudian.php?tvid=jsws
+北京卫视,http://192.168.1.254:8080/jiudian.php?tvid=bjws
+深圳卫视,http://192.168.1.254:8080/jiudian.php?tvid=szws
+东方卫视,http://192.168.1.254:8080/jiudian.php?tvid=dfws
+天津卫视,http://192.168.1.254:8080/jiudian.php?tvid=tjws
+安徽卫视,http://192.168.1.254:8080/jiudian.php?tvid=ahws
+黑龙江卫视,http://192.168.1.254:8080/jiudian.php?tvid=hljws
+湖北卫视,http://192.168.1.254:8080/jiudian.php?tvid=hubws
+四川卫视,http://192.168.1.254:8080/jiudian.php?tvid=scws
+贵州卫视,http://192.168.1.254:8080/jiudian.php?tvid=gzws
+辽宁卫视,http://192.168.1.254:8080/jiudian.php?tvid=lnws
+东南卫视,http://192.168.1.254:8080/jiudian.php?tvid=dnws
+纪实人文,http://192.168.1.254:8080/jiudian.php?tvid=jsrw
+河北卫视,http://192.168.1.254:8080/jiudian.php?tvid=hbws
+江西卫视,http://192.168.1.254:8080/jiudian.php?tvid=jxws
+吉林卫视,http://192.168.1.254:8080/jiudian.php?tvid=jlws
+广西卫视,http://192.168.1.254:8080/jiudian.php?tvid=gxws
+魅力足球,http://192.168.1.254:8080/jiudian.php?tvid=mlzq
+经济科教,http://192.168.1.254:8080/jiudian.php?tvid=jjkj
+都市频道,http://192.168.1.254:8080/jiudian.php?tvid=dspd
+体育健康,http://192.168.1.254:8080/jiudian.php?tvid=tyjk
+TVB星河台,http://192.168.1.254:8080/jiudian.php?tvid=xht
+
 🇼🇸揭阳酒店源,#genre#
 CCTV1,http://120.84.96.78:808/hls/1/index.m3u8
 CCTV2.576,http://120.84.96.78:808/hls/2/index.m3u8
