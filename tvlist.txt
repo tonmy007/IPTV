@@ -1,6 +1,7 @@
 🇭🇰自用频道,#genre#
-翡翠台,http://154.204.182.11:9906/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台,https://pull-l3-cny.douyincdn.com/live/d77db712b48f59db5d20a9d1dc9cd2f5.flv
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://app.nettv.vip/hls/tvb.php?id=1
+无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻(群晖),http://192.168.1.254:8080/tvb.php?id=0
 无线财经(群晖),http://192.168.1.254:8080/tvb.php?id=2
 无线新闻(1080P),http://192.168.1.254:8080/tvb.php?id=0&hq
