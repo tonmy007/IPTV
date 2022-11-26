@@ -7,6 +7,8 @@
 无线财经(1080P),http://192.168.1.254:8080/tvb.php?id=2&hq
 无线新闻(本地),http://127.0.0.1:8080/tvb.php?id=1
 无线财经(本地),http://127.0.0.1:8080/tvb.php?id=2
+抖音4K50P世界杯,http://159.75.85.63:5678/zb.php?id=douyin
+咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo?zguangd
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
 广东综艺4K,http://120.237.252.67:8800/hls/10/index.m3u8
