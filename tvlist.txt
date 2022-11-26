@@ -288,6 +288,7 @@ TVB翡翠台,http://192.168.1.254:8080/gudou.php?id=xgfeicui_1500
 金鹰卡通,http://192.168.1.254:8080/gudou.php?id=jinyingkatong_1500
 
 🇼🇸香港台湾,#genre#
+翡翠台,https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 now新闻台,https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
 now财经台,https://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
