@@ -287,17 +287,25 @@ TVB翡翠台,http://192.168.1.254:8080/gudou.php?id=xgfeicui_1500
 优漫卡通,http://192.168.1.254:8080/gudou.php?id=youmankatong_1500
 金鹰卡通,http://192.168.1.254:8080/gudou.php?id=jinyingkatong_1500
 
-🇼🇸香港,#genre#
-无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-TVB J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
-TVB無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
-TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-TVB無綫財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
-無綫新聞(1080p),mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-无线新闻(1080p),p2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d.ts
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?WithCaption
+🇼🇸香港台湾,#genre#
+有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+now新闻台,https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
+now财经台,https://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
+now直播台,https://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
+有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+中天新闻台,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+台视新闻台,https://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS亚洲台,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+莲花电影台,https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
+中天综合台,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
+Boo驚悚台,https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
+民视频道,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 
 🇼🇸揭阳酒店电信源,#genre#
 翡翠台,http://192.168.1.254:8080/jiudian.php?tvid=tvb
