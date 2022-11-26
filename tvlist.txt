@@ -2,6 +2,7 @@
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://app.nettv.vip/hls/tvb.php?id=1
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+无线新闻,http://9.zhxinda.xyz/newss.php?id=1
 无线新闻(群晖),http://192.168.1.254:8080/tvb.php?id=0
 无线财经(群晖),http://192.168.1.254:8080/tvb.php?id=2
 无线新闻(1080P),http://192.168.1.254:8080/tvb.php?id=0&hq
