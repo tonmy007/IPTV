@@ -457,17 +457,7 @@ CCTV17.576,http://120.84.96.78:808/hls/117/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🌍全球,#genre#
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$蓝光画质
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$蓝光画质
-凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$蓝光画质
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-翡翠台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-翡翠台,http://113.64.147.52:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.54:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.56:808/hls/25/index.m3u8
-翡翠台,http://113.64.147.63:808/hls/25/index.m3u8
-翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A$广电1
-明珠台,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8$广电2
-
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+翡翠台,http://hkelediy.top:8000/bysid/1
+ViuTVsix,http://hkelediy.top:8000/bysid/96
+ViuTV,http://hkelediy.top:8000/bysid/99
