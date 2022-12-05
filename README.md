@@ -9,7 +9,7 @@ https://cdn.jsdelivr.net/gh/hang888888/hang88@master/diyp.txt
 
 源-2
 
-https://github.com/lamdow8/lamdow8.github.io
+[https://github.com/lamdow8/lamdow8.github.io
 
 https://cdn.jsdelivr.net/gh/lamdow8/lamdow8.github.io@master/list.txt
 
@@ -31,4 +31,4 @@ https://github.com/sun3020/it
 
 **源-6
 
-https://github.com/liutao3611/master/blob/main/github/jave/my/a.php
+https://github.com/swhtv/111
