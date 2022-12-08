@@ -661,3 +661,12 @@ CCTV17.576,http://120.84.96.78:808/hls/117/index.m3u8
 翡翠台,http://hkelediy.top:8000/bysid/1
 ViuTVsix,http://hkelediy.top:8000/bysid/96
 ViuTV,http://hkelediy.top:8000/bysid/99
+中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
+台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
+寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
+INEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
+亚洲旅游,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
