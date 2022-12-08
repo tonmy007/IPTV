@@ -646,7 +646,26 @@ CCTV17.576,http://120.84.96.78:808/hls/117/index.m3u8
 内蒙古卫视.576,http://120.84.96.78:808/hls/169/index.m3u8
 
 🌍全球,#genre#
+翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://jydx.jdshipin.com:808/hls/67/index.m3u8
+翡翠台,http://23.237.10.66:16106
+无线新闻,http://9.zhxinda.xyz/newss.php?id=1
+无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+有线新闻台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻台,https://epg.pm/stream/5bfbfa6bced6bff11870cafb34ae94d4753da12274a904df7d50b078ab3ae070.m3u8
+有线新闻台,https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 翡翠台,http://hkelediy.top:8000/bysid/1
 ViuTVsix,http://hkelediy.top:8000/bysid/96
 ViuTV,http://hkelediy.top:8000/bysid/99
+
+弯弯代理,#genre#
+中天新聞,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+inew,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
