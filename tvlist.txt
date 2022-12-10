@@ -670,3 +670,106 @@ INEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
 亚洲旅游,http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+
+测试源,#genre#
+粤语动漫电影轮播,http://epg.112114.xyz/douyu/6462389
+国语动漫电影轮播,http://epg.112114.xyz/douyu/6449849
+国语译制电影轮播,http://epg.112114.xyz/douyu/2436390
+庆余年电视剧,http://epg.112114.xyz/douyu/9633542
+欢乐颂电视剧,http://epg.112114.xyz/douyu/3756989
+好先生电视剧,http://epg.112114.xyz/douyu/9650792
+吐槽大会吐槽,http://epg.112114.xyz/douyu/9236042
+粤语怀旧音乐,http://epg.112114.xyz/douyu/5325029
+爱奇电影粤语,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key
+粤语版电影1,http://epg.112114.xyz/douyu/5033502
+粤语版电影2,http://epg.112114.xyz/douyu/6566671
+粤语版电影3,http://epg.112114.xyz/douyu/1226741
+粤语版电影4,http://epg.112114.xyz/douyu/2466104
+HKC新闻台,mitv://2274650340:9906/0e0e68987cd24063895cf76df3c25d34.ts
+无线新闻台,mitv://2274650340:9906/1101dac1296f40e089b92553c823a0e6.ts
+now新闻台,mitv://2274650340:9906/b79fedebf5094806a89555c1afe77763.ts
+TVB翡翠台,mitv://2274650340:9906/027f96540c5b4d4cb04fce43dddec24a.ts
+HOY TV,mitv://2274650340:9906/388b5281ef2144f9b0f1483809b630ce.ts
+ViuTV,mitv://2274650340:9906/f21f4132b2304bbcb3531e9d837d0bc4.ts
+J2,mitv://2274650340:9906/574f908877f34fb89f4d4baf61c59e68.ts
+港台电视31,mitv://2274650340:9906/edeb618c6961487c9aa09f92cdccff87.ts
+港台电视32,mitv://2274650340:9906/497b859f3e0a4a7991d9596357983bdc.ts
+now直播台,mitv://2274650340:9906/4d57ffad50984d26b12f8dac2519d0cc.ts
+HKC财经资讯台,mitv://2274650340:9906/24a33cdea71f48eb87771b446f8ed66d.ts
+HOY资讯台,mitv://2274650340:9906/0bf5c859c0ee4a32846dd985e8ae1b1c.ts
+无线财经·资讯台,mitv://2274650340:9906/7589ad7d4a2f4c87884807f7eff51942.ts
+HKC综合娱乐台,mitv://2274650340:9906/cd5327509a0d407f952ecef7ebe6d901.ts
+TVB娱乐新闻台,mitv://2274650340:9906/1fc20d0f346a41c9a8b462c6903500f0.ts
+TVB18台,mitv://2274650340:9906/2a3ec0216b474d02bafb577221bc5d98.ts
+HKC 18,mitv://2274650340:9906/6356935c81bb47dea01725800367d230.ts
+HKC 603,mitv://2274650340:9906/f9997cd5f533461a9fc39e911d9e09d8.ts
+HKC体育台,mitv://2274650340:9906/8e5201bac7e84508a226a289978db63e.ts
+HKC Sports Plus 1,mitv://2274650340:9906/01b55db4e80046f29f736c7cc1b5c53e.ts
+无线新闻台(备),mitv://2274650340:9906/ecadb578528244d58766f6e969d279b5.ts
+TVB翡翠台(备),mitv://2274650340:9906/bebf0169c9ab4d6599eb6cd9fadb8afb.ts
+TVB翡翠台(华丽台),mitv://2274650340:9906/3923fd5a6dc74be39f5d1864432ef7f8.ts
+凤凰中文台,mitv://2274650340:9906/19302d935de34226826aa8f5a2dbc668.ts
+凤凰资讯台,mitv://2274650340:9906/1d779f490bab44c29767a2c3a6558c59.ts
+凤凰香港台,mitv://2274650340:9906/02a9cb9ec6974c35b45c0376ff4efeab.ts
+凤凰电影台,mitv://2274650340:9906/669a8e49dc4a4643a08e17939920d781.ts
+HKC电影台,mitv://2274650340:9906/7200dbd246164ca5b4804830fb5e28fd.ts
+美亚电影台(粤语),mitv://2274650340:9906/3a62ddd011a0496d95c1e5852369601b.ts
+国家地理高画质野生频道,mitv://2274650340:9906/fd025442a7394637ae0cdacba4fed976.ts
+东森新闻台,mitv://2274650340:9906/f51027426137453f9b493f2078e29d53.ts
+TVBS新闻台,mitv://2274650340:9906/60a48e2ec29e47718ea2f9de72727a92.ts
+寰宇新闻台,mitv://2274650340:9906/ef726aab37d6409488079ba00b79ed7e.ts
+亚洲旅游台,mitv://2274650340:9906/af1eee3b517f47e5bc638d1b5d0059e3.ts
+EYE TV旅游台,mitv://2274650340:9906/82b9ac6aa4d64a20af99504649914ce3.ts
+寰宇新闻台湾台,mitv://2274650340:9906/e633b470931644b3969bd3a0dee11024.ts
+寰宇新闻台,mitv://2274650340:9906/ef726aab37d6409488079ba00b79ed7e.ts
+寰宇新闻台湾台,mitv://2274650340:9906/e633b470931644b3969bd3a0dee11024.ts
+亚洲旅游台,mitv://2274650340:9906/af1eee3b517f47e5bc638d1b5d0059e3.ts
+EYE TV旅游台,mitv://2274650340:9906/82b9ac6aa4d64a20af99504649914ce3.ts
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+无线新闻台 FHD,http://radius.8866.org:800/hls/82/index.m3u8
+TVB无线新闻,http://203.218.232.199:9981/stream/channelid/168959014?ticket=5be55c3a11b7c78b72e1ac8a6c4cd81d40464ab5&profile=pass
+翡翠台 FHD,http://radius.8866.org:800/hls/80/index.m3u8
+TVB翡翠,http://23.237.10.66:16106
+TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8
+TVB翡翠,http://113.64.147.170:808/hls/67/index.m3u8
+TVB翡翠,http://jyjxy.7766.org:808/hls/36/index.m3u8
+寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+有线新闻台1,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+HKC新闻台,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
+无线新闻台,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
+翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
+中天新闻,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+有线电影台,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
+国家地理高画质野生频道,mitv://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
+亚洲旅游台,mitv://fccs.word-tv.com:9906/6260e4ab0008152e173457e810b3184d
+Travel Channel,mitv://fccs.word-tv.com:9906/626141950004f9a5189f492c02913ec0
+HKC新闻台,P2p://ns1.hellotvvod.com:9906/3f81498034b846a5ae91db3f42981733
+无线新闻台,P2p://ns1.hellotvvod.com:9906/bd83f73a21b54019957c8a6737a87be8
+Now新闻台,P2p://ns1.hellotvvod.com:9906/fdbb5212831b4f9f86a9f800e71e7d38
+TVB翡翠台,P2p://ns1.hellotvvod.com:9906/01a608c70346404c989309310895c483
+港台电视31,P2p://ns1.hellotvvod.com:9906/238b055ecfbd405999ab0843cf473f25
+港台电视32,P2p://ns1.hellotvvod.com:9906/ce149451a3454b7bbc2ea7b1c7a69791
+TVBJ2,P2p://ns1.hellotvvod.com:9906/a23541da08b0429aae124b21af506d2c
+TVB翡翠台(备),P2p://ns1.hellotvvod.com:9906/1971b3d57abd45ce8a7c7dff2b1d1975	
+无线新闻台(备),P2p://ns1.hellotvvod.com:9906/0a7f17e4729b4e5a829d7f5426262fba
+HKC财经资讯台,P2p://ns1.hellotvvod.com:9906/73b49711cda4480581002553dda6ead4
+无线财经·资讯台,P2p://ns1.hellotvvod.com:9906/373b5caaaa66454e95813d3a7d445a5f
+TVB娱乐新闻台,P2p://ns1.hellotvvod.com:9906/ef79d0bcfff34b29980f30c0801b9694
+HKC综合娱乐台,P2p://ns1.hellotvvod.com:9906/fe8a9cf1efcd404a912ab3e8eaf9d16f
+翡翠台(华丽台),P2p://ns1.hellotvvod.com:9906/9130baf31be544a3bacdbef92412a788
+TVB星河(粤),P2p://ns1.hellotvvod.com:9906/0952dc33e94d4c5ca28b2f3fdda68a92
+TVB经典台,P2p://ns1.hellotvvod.com:9906/0807278783b94cb0989a1cd8a8307807
+TVB功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
+TVB粤语片台,P2p://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
+TVB亚洲剧台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
+TVB18台,P2p://ns1.hellotvvod.com:9906/ffe800c672dd44089d17008f88c9e5da
+HKC18,P2p://ns1.hellotvvod.com:9906/d5350ad0768141efa33518d6745f915e
+HKC603,P2p://ns1.hellotvvod.com:9906/d7bab6161df542cb9f1a81e90b2fb156
+HKC体育台,P2p://ns1.hellotvvod.com:9906/67d312dbf2d14947a6ac48420e5b0f24
+HKC Sports Plus 1,P2p://ns1.hellotvvod.com:9906/4e1a9f4658b24586b3f369cbffe1c578
+HKC电影台,P2p://ns1.hellotvvod.com:9906/87d11e08037149488304094bc1961d1f
+寰宇新闻台,P2p://ns1.hellotvvod.com:9906/57748890839d4607b57cdf4fe7d0e961
