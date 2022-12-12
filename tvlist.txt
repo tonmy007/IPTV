@@ -683,8 +683,8 @@ TVB翡翠,http://23.237.10.66:16106
 TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8
 TVB翡翠,http://113.64.147.170:808/hls/67/index.m3u8
 TVB翡翠,http://jyjxy.7766.org:808/hls/36/index.m3u8
-寰宇新闻台,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 寰宇新闻台,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+寰宇新闻台,http://tv.redrainl.site:9500/live.m3u8?c=22
