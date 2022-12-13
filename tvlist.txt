@@ -674,6 +674,10 @@ INEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 
 测试源,#genre#
+翡翠台,https://pull-l3-cny.douyincdn.com/live/1b75d929f0a9eb3af6cd64decff9117d
+无线新闻,https://pull-l3-cny.douyincdn.com/live/903b746419964927fc4d0a684f70a3a5
+有线新闻,https://pull-l3-cny.douyincdn.com/live/4a2a8f6d287192c6dd3b82e6592bf624
+寰宇新闻,https://pull-l3-cny.douyincdn.com/live/c8783360a47bc5ba38d981c9735d6f87
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 无线新闻台 FHD,http://radius.8866.org:800/hls/82/index.m3u8
