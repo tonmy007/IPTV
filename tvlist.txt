@@ -500,22 +500,6 @@ TVB翡翠台,http://192.168.1.254:8080/gudou.php?id=xgfeicui_1500
 金鹰卡通,http://192.168.1.254:8080/gudou.php?id=jinyingkatong_1500
 
 🇼🇸香港台湾,#genre#
-无线新闻台,mitv://generationnexxxt.com:9906/1101dac1296f40e089b92553c823a0e6
-HKC新闻台,mitv://generationnexxxt.com:9906/0e0e68987cd24063895cf76df3c25d34
-TVB娱乐新闻台,mitv://generationnexxxt.com:9906/1fc20d0f346a41c9a8b462c6903500f0
-HKC综合娱乐台,mitv://generationnexxxt.com:9906/cd5327509a0d407f952ecef7ebe6d901
-美亚电影台(粤语),mitv://generationnexxxt.com:9906/3a62ddd011a0496d95c1e5852369601b
-翡翠台(备),mitv://generationnexxxt.com:9906/bebf0169c9ab4d6599eb6cd9fadb8afb
-J2,mitv://generationnexxxt.com:9906/574f908877f34fb89f4d4baf61c59e68
-无线新闻台(备),mitv://generationnexxxt.com:9906/ecadb578528244d58766f6e969d279b5
-无线新闻台,mitv://generationnexxxt.com:9906/1101dac1296f40e089b92553c823a0e6
-寰宇新闻台,mitv://generationnexxxt.com:9906/ef726aab37d6409488079ba00b79ed7e
-寰宇新闻台湾台,mitv://generationnexxxt.com:9906/e633b470931644b3969bd3a0dee11024
-亚洲旅游台,mitv://generationnexxxt.com:9906/af1eee3b517f47e5bc638d1b5d0059e3
-EYE TV旅游台,mitv://generationnexxxt.com:9906/82b9ac6aa4d64a20af99504649914ce3
-国家地理高画质野生频道,mitv://generationnexxxt.com:9906/fd025442a7394637ae0cdacba4fed976
-BBC Earth,mitv://generationnexxxt.com:9906/60c5b71b4ec34a4e969797b47b01ba8f
-
 
 🇼🇸本地代理揭阳酒店源,#genre#
 翡翠台,http://192.168.1.254:8080/jiudian.php?tvid=tvb
