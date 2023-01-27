@@ -486,7 +486,56 @@ TVB翡翠台,http://192.168.1.254:8080/gudou.php?id=xgfeicui_1500
 优漫卡通,http://192.168.1.254:8080/gudou.php?id=youmankatong_1500
 金鹰卡通,http://192.168.1.254:8080/gudou.php?id=jinyingkatong_1500
 
-🇼🇸香港台湾,#genre#
+🇼🇸酒店源,#genre#
+CCTV4,http://jydx.jdshipin.com:8081/hls/4/index.m3u8
+CCTV2,http://jydx.jdshipin.com:8081/hls/2/index.m3u8
+CCTV3,http://jydx.jdshipin.com:8081/hls/3/index.m3u8
+广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
+CCTV6,http://jydx.jdshipin.com:8081/hls/6/index.m3u8
+CCTV5,http://jydx.jdshipin.com:8081/hls/5/index.m3u8
+CCTV7,http://jydx.jdshipin.com:8081/hls/7/index.m3u8
+CCTV8,http://jydx.jdshipin.com:8081/hls/8/index.m3u8
+CCTV11,http://jydx.jdshipin.com:8081/hls/11/index.m3u8
+CCTV10,http://jydx.jdshipin.com:8081/hls/10/index.m3u8
+CCTV9,http://jydx.jdshipin.com:8081/hls/9/index.m3u8
+CCTV14,http://jydx.jdshipin.com:8081/hls/14/index.m3u8
+CCTV12,http://jydx.jdshipin.com:8081/hls/12/index.m3u8
+CCTV13,http://jydx.jdshipin.com:8081/hls/13/index.m3u8
+CCTV15,http://jydx.jdshipin.com:8081/hls/15/index.m3u8
+CCTV5+,http://jydx.jdshipin.com:8081/hls/16/index.m3u8
+电视剧频道,http://jydx.jdshipin.com:8081/hls/18/index.m3u8
+CHC家庭影院,http://jydx.jdshipin.com:8081/hls/35/index.m3u8
+凤凰新闻台,http://jydx.jdshipin.com:8081/hls/37/index.m3u8
+凤凰香港台,http://jydx.jdshipin.com:8081/hls/38/index.m3u8
+凤凰台,http://jydx.jdshipin.com:8081/hls/36/index.m3u8
+湖南卫视,http://jydx.jdshipin.com:8081/hls/42/index.m3u8
+浙江卫视,http://jydx.jdshipin.com:8081/hls/43/index.m3u8
+江苏卫视,http://jydx.jdshipin.com:8081/hls/44/index.m3u8
+广东卫视,http://jydx.jdshipin.com:8081/hls/40/index.m3u8
+北京卫视,http://jydx.jdshipin.com:8081/hls/45/index.m3u8
+天津卫视,http://jydx.jdshipin.com:8081/hls/48/index.m3u8
+湖北卫视,http://jydx.jdshipin.com:8081/hls/51/index.m3u8
+黑龙江卫视,http://jydx.jdshipin.com:8081/hls/50/index.m3u8
+四川卫视,http://jydx.jdshipin.com:8081/hls/52/index.m3u8
+辽宁卫视,http://jydx.jdshipin.com:8081/hls/54/index.m3u8
+安徽卫视,http://jydx.jdshipin.com:8081/hls/49/index.m3u8
+贵州卫视,http://jydx.jdshipin.com:8081/hls/53/index.m3u8
+东南卫视,http://jydx.jdshipin.com:8081/hls/55/index.m3u8
+湖北卫视,http://jydx.jdshipin.com:8081/hls/57/index.m3u8
+纪实人文,http://jydx.jdshipin.com:8081/hls/56/index.m3u8
+吉林卫视,http://jydx.jdshipin.com:8081/hls/59/index.m3u8
+广西卫视,http://jydx.jdshipin.com:8081/hls/60/index.m3u8
+电影台,http://jydx.jdshipin.com:8081/hls/61/index.m3u8
+电视剧,http://jydx.jdshipin.com:8081/hls/63/index.m3u8
+魅力足球,http://jydx.jdshipin.com:8081/hls/65/index.m3u8
+经济科教,http://jydx.jdshipin.com:8081/hls/66/index.m3u8
+翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
+体育健康,http://jydx.jdshipin.com:8081/hls/70/index.m3u8
+都市频道,http://jydx.jdshipin.com:8081/hls/68/index.m3u8
+江西卫视,http://jydx.jdshipin.com:8081/hls/58/index.m3u8
+星河电视,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
+CCTV1,http://jydx.jdshipin.com:8081/hls/138/index.m3u8
+广东珠江,http://jydx.jdshipin.com:8081/hls/139/index.m3u8
 
 🇼🇸本地代理揭阳酒店源,#genre#
 翡翠台,http://192.168.1.254:8080/jiudian.php?tvid=tvb
