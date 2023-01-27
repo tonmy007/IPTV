@@ -249,8 +249,10 @@ TVB翡翠台,http://nas.jdshipin.com:8801/gdceshi.php?id=xgfeicui_1500
 无线新闻(本地),http://127.0.0.1:8080/tvb.php?id=1
 无线财经(本地),http://127.0.0.1:8080/tvb.php?id=2
 粤语电影,http://epg.112114.xyz/huya/11352894
+粤语综艺,http://epg.112114.xyz/douyu/7919720
 斗鱼粤语电影16,http://epg.112114.xyz/douyu/1226741 
-斗鱼粤语2电影20,http://epg.112114.xyz/douyu/2466104
+斗鱼粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=6566671
+粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key
 
 🇼🇸谷豆本地代理,#genre#
 翡翠台HD,http://192.168.1.254:8080/gudou.php?id=1350_4500
@@ -534,9 +536,36 @@ CCTV15,http://192.168.1.254:8080/jiudian.php?tvid=cctv15
 TVB星河台,http://192.168.1.254:8080/jiudian.php?tvid=xht
 
 🌍全球,#genre#
-翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 翡翠台HD,http://r.jdshipin.com/qClQf
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+华丽翡翠台,http://r.jdshipin.com/thuYX
+J2,http://r.jdshipin.com/Nr5jq
+ViuTV,http://r.jdshipin.com/vSJvl
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+华丽翡翠台,http://r.jdshipin.com/thuYX
+J2,http://r.jdshipin.com/Nr5jq
+翡翠台,http://23.237.10.66:16410
+东森live,http://158.101.151.82:9000/jmsytb.m3u8?c=02
+TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=03
+TVBSHD,http://158.101.151.82:9000/jmsytb.m3u8?c=04
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
+台视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=07
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=08
+三立Live,http://158.101.151.82:9000/jmsytb.m3u8?c=09
+FRANCE 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
+Bloomberg live,http://158.101.151.82:9000/jmsytb.m3u8?c=13
+寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=16
+镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
+ABC news,http://158.101.151.82:9000/jmsytb.m3u8?c=21
+NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=23
+NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=24
+CNA,http://158.101.151.82:9000/jmsytb.m3u8?c=25
+CGTN,http://158.101.151.82:9000/jmsytb.m3u8?c=28
+SKY news,http://158.101.151.82:9000/jmsytb.m3u8?c=29
 
 测试源,#genre#
 无线新闻,https://bcovlive-a.akamaihd.net/1a4d26878de24e2395f5fb7921a5a110/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
@@ -555,3 +584,23 @@ TVB翡翠,http://jyjxy.7766.org:808/hls/36/index.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 寰宇新闻台,http://140.238.155.232:9000/jmsytb.m3u8?c=27
 寰宇新闻台,http://tv.redrainl.site:9500/live.m3u8?c=22
+
+高清香港台（地面波源）,#genre#
+港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8
+香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
+财经资讯台,https://cdn.hklive.tv/xxxx/108/index.m3u8
+新闻台,https://cdn.hklive.tv/xxxx/109/index.m3u8
+now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
+now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
