@@ -1,10 +1,9 @@
 🇭🇰省有线,#genre#
-广州综合,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gztv.php?id=gzzh
-广州新闻,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gztv.php?id=gzxw
-广州法治,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gztv.php?id=gzfz
-广州南国都市,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gztv.php?id=gzsh
-广州影视,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gztv.php?id=gzys
-广州竞赛,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gztv.php?id=gzjs
+广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
+广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
+广州南国都市,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
+广州法治,http://www.nettvpro.live/hls/guangzhou.php?id=fazhi
+广州影视,http://www.nettvpro.live/hls/guangzhou.php?id=yingshi
 翡翠台HD,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gudou.php?id=1350_4500
 明珠台HD,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gudou.php?id=1351_4500
 珠江频道FHD,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gudou.php?id=gdzhujiangHD_7500
