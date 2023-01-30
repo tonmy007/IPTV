@@ -588,6 +588,7 @@ TVB星河台,http://192.168.1.254:8080/jiudian.php?tvid=xht
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 华丽翡翠台,http://r.jdshipin.com/thuYX
 J2,http://r.jdshipin.com/Nr5jq
 ViuTV,http://r.jdshipin.com/vSJvl
