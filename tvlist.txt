@@ -241,6 +241,10 @@ TVB翡翠台,http://[2409:8a55:6e5:fd0:211:32ff:fe2c:a603]:8080/gudou.php?id=xgf
 🇭🇰自用频道,#genre#
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://app.nettv.vip/hls/tvb.php?id=1
+翡翠台,http://192.168.1.254:8080/everydaytv.php?id=tvbfc
+无线新闻台,http://192.168.1.254:8080/everydaytv.php?id=tvbnews
+有线新闻台,http://192.168.1.254:8080/everydaytv.php?id=yxxw
+美亚电影台,http://192.168.1.254:8080/everydaytv.php?id=mydy
 无线新闻(群晖),http://192.168.1.254:8080/tvb.php?id=0
 无线财经(群晖),http://192.168.1.254:8080/tvb.php?id=2
 无线新闻(1080P),http://192.168.1.254:8080/tvb.php?id=0&hq
