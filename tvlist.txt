@@ -659,13 +659,13 @@ now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
 now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
 
 穿透测试,#genre#
-广州综合,http://192.168.191.23/gztv.php?id=gzzh
-广州新闻,http://192.168.191.23/gztv.php?id=gzxw
-广州法治,http://192.168.191.23/gztv.php?id=gzfz
-广州南国都市,http://192.168.191.23/gztv.php?id=gzsh
-广州影视,http://192.168.191.23/gztv.php?id=gzys
-广州竞赛,http://192.168.191.23/gztv.php?id=gzjs
-翡翠台HD,http://192.168.191.23/gudou.php?id=1350_4500
+广州综合,http://192.168.1.253/gztv.php?id=gzzh
+广州新闻,http://192.168.1.253/gztv.php?id=gzxw
+广州法治,http://192.168.1.253/gztv.php?id=gzfz
+广州南国都市,http://192.168.1.253/gztv.php?id=gzsh
+广州影视,http://192.168.1.253/gztv.php?id=gzys
+广州竞赛,http://192.168.1.253/gztv.php?id=gzjs
+翡翠台HD,http://192.168.1.253/gudou.php?id=1350_4500
 明珠台HD,http://192.168.191.23/gudou.php?id=1351_4500
 珠江频道FHD,http://192.168.191.23/gudou.php?id=gdzhujiangHD_7500
 广东体育FHD,http://192.168.191.23/gudou.php?id=1413_4500
