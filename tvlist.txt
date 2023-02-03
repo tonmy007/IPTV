@@ -1,4 +1,5 @@
 🇭🇰省有线,#genre#
+翡翠台测试,http://192.168.191.23/gudou.php?id=1350_4500
 广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
 广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
 广州南国都市,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
