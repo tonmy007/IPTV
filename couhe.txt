@@ -4,6 +4,11 @@
 广州南国都市,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
 广州法治,http://www.nettvpro.live/hls/guangzhou.php?id=fazhi
 广州影视,http://www.nettvpro.live/hls/guangzhou.php?id=yingshi
+翡翠台HD,http://r.jdshipin.com/qClQf
+无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 翡翠台HD,http://[2409:8a55:6e6:40b0:211:32ff:fe2c:a603]:8080/gudou.php?id=1350_4500
 明珠台HD,http://[2409:8a55:6e6:40b0:211:32ff:fe2c:a603]:8080/gudou.php?id=1351_4500
 珠江频道FHD,http://[2409:8a55:6e6:40b0:211:32ff:fe2c:a603]:8080/gudou.php?id=gdzhujiangHD_7500
