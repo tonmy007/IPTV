@@ -1,9 +1,14 @@
-🇭🇰港台,#genre#
+🇭🇰省港台,#genre#
 翡翠台HD,http://r.jdshipin.com/qClQf
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
+广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
+广州南国都市,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
+广州法治,http://www.nettvpro.live/hls/guangzhou.php?id=fazhi
+广州影视,http://www.nettvpro.live/hls/guangzhou.php?id=yingshi
 
 🐼丨爱尚直播,#genre#
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
