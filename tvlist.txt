@@ -669,7 +669,7 @@ now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
 翡翠台1,http://iptv.tonmy007.tk:8080/gudou.php?id=1350_4500
 翡翠台HD,http://192.168.191.185/gudou.php?id=1350_4500
 明珠台HD,http://192.168.191.185/gudou.php?id=1351_4500
-无线新闻,http://192.168.191.185/gudou.php?id=1
+无线新闻,http://192.168.191.185/tvb.php?id=1
 珠江频道FHD,http://192.168.191.185/gudou.php?id=gdzhujiangHD_7500
 广东体育FHD,http://192.168.191.185/gudou.php?id=1413_4500
 广东经济FHD,http://192.168.191.185/gudou.php?id=GDjingjikejiaoHD_7000
