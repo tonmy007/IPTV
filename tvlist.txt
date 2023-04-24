@@ -1,3 +1,11 @@
+🇭🇰香港地波,#genre#
+TvbFinance,http://113.90.2.91:39981/stream/channel/f84871fc2ebddaf395a919940460be69?profile=matroska
+ViuTV,http://113.90.2.91:39981/stream/channel/60990b3b54bd45ecceff5dbcb34df2e1?profile=matroska
+Jade,http://113.90.2.91:39981/stream/channel/7246cbde4a4decbeec2f8b287b8f6ef2?profile=matroska
+ViuTVSix,http://113.90.2.91:39981/stream/channel/b11b9e1ce003191ad5f4415cdaf49f8a?profile=matroska
+TvbNews,http://113.90.2.91:39981/stream/channel/c6f68b95f2e313b84916ea0304badaea?profile=matroska
+J2,http://113.90.2.91:39981/stream/channel/1f2db709787c32e2def1d935466b1320?profile=matroska
+
 🇭🇰省有线,#genre#
 广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
 广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
