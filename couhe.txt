@@ -1,5 +1,10 @@
 🇭🇰省港台,#genre#
 翡翠台HD,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+无线财经,http://120.84.96.82:808/hls/86/index.m3u8#http://120.84.96.89:808/hls/86/index.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8#http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://app.nettv.vip/hls/tvb.php?id=1
