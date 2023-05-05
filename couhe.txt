@@ -1,6 +1,8 @@
 🇭🇰省港台,#genre#
 翡翠台HD,http://r.jdshipin.com/qClQf
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://app.nettv.vip/hls/tvb.php?id=1
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
