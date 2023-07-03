@@ -128,6 +128,11 @@ CHC高清电影,http://60.208.16.27:1505/gudou.php?id=CHCHD_7000
 粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key
 
 🇼🇸谷豆本地代理,#genre#
+翡翠台,http://192.168.1.254:8080/tvb.php?id=0
+J2,http://192.168.1.254:8080/tvb.php?id=1
+无线新闻台,http://192.168.1.254:8080/tvb.php?id=2
+无线新闻台海外,http://192.168.1.254:8080/tvb.php?id=4
+无线财经台,http://192.168.1.254:8080/tvb.php?id=6
 翡翠台HD,http://192.168.1.254:8080/gudou.php?id=1350_4500
 明珠台HD,http://192.168.1.254:8080/gudou.php?id=1351_4500
 珠江频道FHD,http://192.168.1.254:8080/gudou.php?id=gdzhujiangHD_7500
