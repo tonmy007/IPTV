@@ -11,11 +11,12 @@
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-
-广州综合,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzzh&auth=rinimabi
-广州新闻,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi
-广州影视,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzys&auth=rinimabi
-广州法治,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzjj&auth=rinimabi
+广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
+广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8
+广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
+广州竞赛,https://justsometime.gztv.com/sec/jingsai.m3u8
+广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
+南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
