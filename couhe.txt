@@ -11,12 +11,6 @@
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-广州综合,http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146
-广州新闻,http://ct.whosayssowhat.top:4022/udp/239.253.43.72:5146
-广州影视,http://ct.whosayssowhat.top:4022/udp/239.253.43.73:5146
-广州法治,http://ct.whosayssowhat.top:4022/udp/239.253.43.74:5146
-广州竞赛,http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
-南国都市4K,http://ct.whosayssowhat.top:4022/udp/239.77.0.233:5146
 
 广州综合,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzzh&auth=rinimabi
 广州新闻,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi
