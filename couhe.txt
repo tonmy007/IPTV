@@ -22,110 +22,22 @@
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 
 🇭🇰广东有线,#genre#
-CCTV4K,http://60.208.16.27:1505/gudou.php?id=4005_4500
-CCTV16-4K,http://60.208.16.27:1505/gudou.php?id=4010
-广东综艺4K,http://60.208.16.27:1505/gudou.php?id=GDZYHD4K_38000
-G导视高清,http://60.208.16.27:1505/gudou.php?id=GHDdaoshi_7500
-翡翠台,http://60.208.16.27:1505/gudou.php?id=1350_4500
-明珠台,http://60.208.16.27:1505/gudou.php?id=1351_4500
-CCTV1,http://60.208.16.27:1505/gudou.php?id=1402_4500
-CCTV2,http://60.208.16.27:1505/gudou.php?id=CCTV2HD_7000
-CCTV3,http://60.208.16.27:1505/gudou.php?id=1603
-CCTV4,http://60.208.16.27:1505/gudou.php?id=1604
-CCTV5,http://60.208.16.27:1505/gudou.php?&id=1605
-CCTV5+,http://60.208.16.27:1505/gudou.php?&id=1403
-CCTV6,http://60.208.16.27:1505/gudou.php?id=1606
-CCTV7,http://60.208.16.27:1505/gudou.php?&id=1607
-CCTV8,http://60.208.16.27:1505/gudou.php?id=1608
-CCTV9,http://60.208.16.27:1505/gudou.php?id=CCTV9HD_7000
-CCTV10,http://60.208.16.27:1505/gudou.php?id=1610
-CCTV11,http://60.208.16.27:1505/gudou.php?id=CCTV-11HD_7500
-CCTV12,http://60.208.16.27:1505/gudou.php?id=CCTV12HD_7000
-CCTV13,http://60.208.16.27:1505/gudou.php?id=1613
-CCTV14,http://60.208.16.27:1505/gudou.php?id=CCTV14HD_7000
-CCTV15,http://60.208.16.27:1505/gudou.php?id=CCTV-15HD_7500
-CCTV16,http://60.208.16.27:1505/gudou.php?id=1617_4500
-CCTV17,http://60.208.16.27:1505/gudou.php?id=CCTV17HD
-广东卫视,http://60.208.16.27:1505/gudou.php?id=1401
-深圳卫视,http://60.208.16.27:1505/gudou.php?id=shenzhenHD_7000
-东方卫视,http://60.208.16.27:1505/gudou.php?id=dongfangHD_7000
-北京卫视,http://60.208.16.27:1505/gudou.php?id=beijingHD_7000
-湖南卫视,http://60.208.16.27:1505/gudou.php?id=hunanHD_7000
-江西卫视,http://60.208.16.27:1505/gudou.php?id=jiangxiHD_7000
-四川卫视,http://60.208.16.27:1505/gudou.php?id=sichuanHD_7000
-江苏卫视,http://60.208.16.27:1505/gudou.php?id=jiangsuHD_7000
-浙江卫视,http://60.208.16.27:1505/gudou.php?id=zhejiangHD_7000
-天津卫视,http://60.208.16.27:1505/gudou.php?id=1415_4500
-河北卫视,http://60.208.16.27:1505/gudou.php?id=1426_4500
-重庆卫视,http://60.208.16.27:1505/gudou.php?id=chongqingHD_7000
-贵州卫视,http://60.208.16.27:1505/gudou.php?id=guizhouHD_7000
-辽宁卫视,http://60.208.16.27:1505/gudou.php?id=liaoningHD_7000
-湖北卫视,http://60.208.16.27:1505/gudou.php?id=hubeiHD_7000
-安徽卫视,http://60.208.16.27:1505/gudou.php?id=anhuiHD_7000
-黑龙江卫视,http://60.208.16.27:1505/gudou.php?id=heilongjiangHD_7000
-海南卫视,http://60.208.16.27:1505/gudou.php?id=1451_4500
-三沙卫视,http://60.208.16.27:1505/gudou.php?id=1453
-陕西卫视,http://60.208.16.27:1505/gudou.php?id=1452_4500
-东南卫视,http://60.208.16.27:1505/gudou.php?id=dongnanweishiHD
-山东卫视,http://60.208.16.27:1505/gudou.php?id=1416_4500
-梨园频道,http://60.208.16.27:1505/gudou.php?id=1937
-武术世界,http://60.208.16.27:1505/gudou.php?id=1938
-文物宝库,http://60.208.16.27:1505/gudou.php?id=1939
-CHC高清电影,http://60.208.16.27:1505/gudou.php?id=CHCHD_7000
-乐游,http://60.208.16.27:1505/gudou.php?id=quanjishiHD_7000
-求索纪录,http://60.208.16.27:1505/gudou.php?id=QSJLHD_7000
-求索science,http://60.208.16.27:1505/gudou.php?id=qiusuokexueHD_7000
-求索动物,http://60.208.16.27:1505/gudou.php?id=QSDWHD_7000
-求索生活,http://60.208.16.27:1505/gudou.php?id=1612
-魅力足球,http://60.208.16.27:1505/gudou.php?id=meiliyinyueHD_7000
-劲爆体育,http://60.208.16.27:1505/gudou.php?id=jinbaotiyuHD_7000
-广东珠江,http://60.208.16.27:1505/gudou.php?id=gdzhujiangHD_7500
-广东体育,http://60.208.16.27:1505/gudou.php?id=1413
-广东新闻,http://60.208.16.27:1505/gudou.php?id=1454
-广东民生,http://60.208.16.27:1505/gudou.php?id=1455
-广东经济科教,http://60.208.16.27:1505/gudou.php?id=GDjingjikejiaoHD_7000
-大湾区卫视,http://60.208.16.27:1505/gudou.php?id=1456
-广东影视,http://60.208.16.27:1505/gudou.php?id=1458
-嘉佳卡通,http://60.208.16.27:1505/gudou.php?id=1459
-广东少儿,http://60.208.16.27:1505/gudou.php?id=1457
-岭南戏曲,http://60.208.16.27:1505/gudou.php?id=1460
-汕头综合,http://60.208.16.27:1505/gudou.php?id=shantouyitaogaoqing_4500
-汕头经济生活,http://60.208.16.27:1505/gudou.php?id=shantouertaogaoqing_4500
-汕头文旅体育,http://60.208.16.27:1505/gudou.php?id=2508_4500
-潮州综合,http://60.208.16.27:1505/gudou.php?id=3131
-潮州民生,http://60.208.16.27:1505/gudou.php?id=3132
-中山综合,http://60.208.16.27:1505/gudou.php?id=3665
-中山香山文化,http://60.208.16.27:1505/gudou.php?id=3663
-中山教育,http://60.208.16.27:1505/gudou.php?id=3664
-鹤山综合,http://60.208.16.27:1505/gudou.php?id=3709
-梅州1,http://60.208.16.27:1505/gudou.php?id=meizhou1HD_4500
-梅州2,http://60.208.16.27:1505/gudou.php?id=meizhou2HD_4500
-东莞新闻综合,http://60.208.16.27:1505/gudou.php?id=2121
-东莞生活资讯,http://60.208.16.27:1505/gudou.php?id=2122
-佛山综合,http://60.208.16.27:1505/gudou.php?id=foshanzongheHD_4500
-佛山公共,http://60.208.16.27:1505/gudou.php?id=foshangonggongHD_4500
-佛山影视,http://60.208.16.27:1505/gudou.php?id=foshanyingshiHD_4500
-南海综合,http://60.208.16.27:1505/gudou.php?id=nanhaiHD_4500
-顺德综合,http://60.208.16.27:1505/gudou.php?id=shundeHD_4500
-斗门融媒,http://60.208.16.27:1505/gudou.php?id=2207
-惠州1,http://60.208.16.27:1505/gudou.php?id=2314
-惠州2,http://60.208.16.27:1505/gudou.php?id=2316
-博罗综合,http://60.208.16.27:1505/gudou.php?id=2305
-廉江综合-1,http://60.208.16.27:1505/gudou.php?id=3209
-廉江综合-2,http://60.208.16.27:1505/gudou.php?id=3210
-广州综合,http://60.208.16.27:1505/gudou.php?id=gzhounewsHD
-广州新闻,http://60.208.16.27:1505/gudou.php?id=gzhouzongheHD
-梅州导视,http://60.208.16.27:1505/gudou.php?&id=meizhoudaoshiHD
-惠东,http://60.208.16.27:1505/gudou.php?&id=huidongHD
-珠海1,http://60.208.16.27:1505/gudou.php?id=zhuhaiHD1_4500
-珠海2,http://60.208.16.27:1505/gudou.php?id=zhuhaiHD2_4500
-茂名综合HD,http://60.208.16.27:1505/gudou.php?id=3012_4500
-茂名公共HD,http://60.208.16.27:1505/gudou.php?id=3013_4500
-潮安综合高清,http://60.208.16.27:1505/gudou.php?id=chaoanzongheHD
-信宜,http://60.208.16.27:1505/gudou.php?id=xinyigaoqing
-梅县综合,http://60.208.16.27:1505/gudou.php?id=meixianHD
-饶平台高清,http://60.208.16.27:1505/gudou.php?id=raopingtaiHD
-
+CCTV16-4K,http://www.namewee.xyz/gudou.php?id=364&id=4010
+广东综艺,http://www.namewee.xyz/gudou.php?id=364&id=GDZYHD4K_38000
+广东综艺4K,http://www.namewee.xyz/gudou.php?id=364&id=GDZYHD4K_38000
+广东珠江,http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
+广东体育,http://www.namewee.xyz/gudou.php?id=364&id=1413
+广州综合,http://www.namewee.xyz/gudou.php?id=364&id=gzhounewsHD
+广州新闻,http://www.namewee.xyz/gudou.php?id=364&id=gzhouzongheHD
+广东经济科教,http://www.namewee.xyz/gudou.php?id=364&id=GDjingjikejiaoHD_7000
+广州综合,http://www.namewee.xyz/gudou.php?id=364&id=guangzhou_1500
+广州新闻,http://www.namewee.xyz/gudou.php?id=364&id=gznews_1500
+广州法治,http://www.namewee.xyz/gudou.php?id=364&id=gzeconomic_1500
+广州竞赛,http://www.namewee.xyz/gudou.php?id=364&id=gzcompetition_1500
+广州影视,http://www.namewee.xyz/gudou.php?id=364&id=gzfilms_1500
+翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
+凤凰中文,http://www.namewee.xyz/gudou.php?id=364&id=fhzw_1500
 
 🐼丨爱尚直播,#genre#
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
