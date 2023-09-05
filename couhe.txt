@@ -26,15 +26,9 @@ CCTV16-4K,http://www.namewee.xyz/gudou.php?id=364&id=4010
 广东综艺,http://www.namewee.xyz/gudou.php?id=364&id=GDZYHD4K_38000
 广东综艺4K,http://www.namewee.xyz/gudou.php?id=364&id=GDZYHD4K_38000
 广东珠江,http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
-广东体育,http://www.namewee.xyz/gudou.php?id=364&id=1413
+广东体育,http://www.namewee.xyz/gudou.php?id=364&id=id=1413_4500
 广州综合,http://www.namewee.xyz/gudou.php?id=364&id=gzhounewsHD
 广州新闻,http://www.namewee.xyz/gudou.php?id=364&id=gzhouzongheHD
-广东经济科教,http://www.namewee.xyz/gudou.php?id=364&id=GDjingjikejiaoHD_7000
-广州综合,http://www.namewee.xyz/gudou.php?id=364&id=guangzhou_1500
-广州新闻,http://www.namewee.xyz/gudou.php?id=364&id=gznews_1500
-广州法治,http://www.namewee.xyz/gudou.php?id=364&id=gzeconomic_1500
-广州竞赛,http://www.namewee.xyz/gudou.php?id=364&id=gzcompetition_1500
-广州影视,http://www.namewee.xyz/gudou.php?id=364&id=gzfilms_1500
 翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
 凤凰中文,http://www.namewee.xyz/gudou.php?id=364&id=fhzw_1500
