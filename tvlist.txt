@@ -1,4 +1,5 @@
 🇭🇰省有线,#genre#
+1,http://218.161.2.199:8080/udp/224.1.4.24:1111
 广州综合,http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
 广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
 广州南国都市,http://www.nettvpro.live/hls/guangzhou.php?id=shenghuo
