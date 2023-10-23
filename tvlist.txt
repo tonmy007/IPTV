@@ -1,3 +1,18 @@
+🇭🇰深圳旁边台,#genre#
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+CCTV-1綜合,http://bziyunshao.synology.me:8892/bysid/33
+CGTN紀錄頻道,http://bziyunshao.synology.me:8892/bysid/34
 🇭🇰省有线,#genre#
 广东卫视,http://www.namewee.xyz/gudou.php?id=364&id=1401
 广东体育HD,http://www.namewee.xyz/gudou.php?id=364&id=1413_4500
