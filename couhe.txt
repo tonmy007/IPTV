@@ -1,19 +1,5 @@
 🇭🇰深圳旁边台,#genre#
 翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-明珠台,http://bziyunshao.synology.me:8890/bysid/2
-J2台,http://bziyunshao.synology.me:8890/bysid/82
-無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
-無綫財經,http://bziyunshao.synology.me:8890/bysid/85
-國際財經台,http://bziyunshao.synology.me:8891/bysid/76
-HOY TV,http://bziyunshao.synology.me:8891/bysid/77
-HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
-港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
-港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
-CCTV-1綜合,http://bziyunshao.synology.me:8892/bysid/33
-CGTN紀錄頻道,http://bziyunshao.synology.me:8892/bysid/34
 
 中国电视台,#genre#
 爱上4K 22M2160,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
@@ -124,14 +110,6 @@ HKC电影台,mitv://ns1.hellotvvod.com:9906/a81d02cfc4514e33842c5ad6a020c206
 爆谷星影台,mitv://ns1.hellotvvod.com:9906/e63ef476636a4f8eb53a14035b0d85f1
 DOXTV,http://116.205.130.205:66/6/gudtv.php?id=DOXTV_1500
 DOXTV,http://www.56ku.ml/gudou.php?id=DOXTV_1500
-无线新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
-明珠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7c1f17c3-7605-4317-a585-893f6c5dd3b1/index.m3u8?by=yeslivetv.com
-無綫財經,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
-Hoy资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-HoyTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
-TVBS新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
-东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
-年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com 
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 J2台,http://bziyunshao.synology.me:8890/bysid/82
@@ -144,72 +122,6 @@ HOYTV资讯,http://bziyunshao.synology.me:8891/bysid/78
 RTHK31,http://bziyunshao.synology.me:8892/bysid/31
 RTHK32,http://bziyunshao.synology.me:8892/bysid/32
 香港國際財經台,http://bziyunshao.synology.me:8891/bysid/76
-天映电影,http://171.108.239.89:8020/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://171.108.239.89:8020/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥电影,http://171.108.239.89:8020/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://171.108.239.89:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影,http://171.108.239.89:8020/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://171.108.239.89:8020/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://171.108.239.89:8020/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-天映电影,http://171.108.239.89:8020/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影,http://171.108.239.89:8020/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥电影,http://171.108.239.89:8020/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://171.108.239.89:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-中国电影,http://171.108.239.89:8020/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-私人影院,http://171.108.239.89:8020/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://171.108.239.89:8020/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-台視HD,http://154.216.191.59/ycdz/tw220.php?id=0
-人間衛視,http://154.216.191.59/ycdz/tw220.php?id=1
-大愛電視,http://154.216.191.59/ycdz/tw220.php?id=2
-國家地理HD,http://154.216.191.59/ycdz/tw220.php?id=3
-DISCOVERY,http://154.216.191.59/ycdz/tw220.php?id=4
-旅遊生活,http://154.216.191.59/ycdz/tw220.php?id=5
-動物星球,http://154.216.191.59/ycdz/tw220.php?id=6
-momo親子台,http://154.216.191.59/ycdz/tw220.php?id=7
-東森幼幼HD,http://154.216.191.59/ycdz/tw220.php?id=8
-緯來綜合HD,http://154.216.191.59/ycdz/tw220.php?id=9
-八大第一HD,http://154.216.191.59/ycdz/tw220.php?id=10
-八大綜合HD,http://154.216.191.59/ycdz/tw220.php?id=11
-三立台灣HD,http://154.216.191.59/ycdz/tw220.php?id=12
-三立都會HD,http://154.216.191.59/ycdz/tw220.php?id=13
-衛視中文HD,http://154.216.191.59/ycdz/tw220.php?id=14
-中天娛樂HD,http://154.216.191.59/ycdz/tw220.php?id=15
-MUCH TV,http://154.216.191.59/ycdz/tw220.php?id=16
-年代新聞,http://154.216.191.59/ycdz/tw220.php?id=17
-東森新聞HD,http://154.216.191.59/ycdz/tw220.php?id=18
-中天新聞HD,http://154.216.191.59/ycdz/tw220.php?id=19
-三立新聞HD,http://154.216.191.59/ycdz/tw220.php?id=20
-東森財經HD,http://154.216.191.59/ycdz/tw220.php?id=21
-寰宇新聞,http://154.216.191.59/ycdz/tw220.php?id=22
-壹新聞,http://154.216.191.59/ycdz/tw220.php?id=23
-CNBC,http://154.216.191.59/ycdz/tw220.php?id=24
-Bloomberg News,http://154.216.191.59/ycdz/tw220.php?id=25
-NHK世界HD,http://154.216.191.59/ycdz/tw220.php?id=26
-衛視電影HD,http://154.216.191.59/ycdz/tw220.php?id=27
-HBO,http://154.216.191.59/ycdz/tw220.php?id=28
-AXN,http://154.216.191.59/ycdz/tw220.php?id=29
-CINEMAX HD,http://154.216.191.59/ycdz/tw220.php?id=30
-STAR MOVIES GOLD,http://154.216.191.59/ycdz/tw220.php?id=31
-Star World,http://154.216.191.59/ycdz/tw220.php?id=32
-緯來體育HD,http://154.216.191.59/ycdz/tw220.php?id=33
-博斯運動一,http://154.216.191.59/ycdz/tw220.php?id=34
-momo 綜合台,http://154.216.191.59/ycdz/tw220.php?id=35
-ELEVEN SPORTS 1 HD,http://154.216.191.59/ycdz/tw220.php?id=36
-ELEVEN SPORTS 2 HD,http://154.216.191.59/ycdz/tw220.php?id=37
-Star World,http://154.216.191.59/ycdz/tw220.php?id=38
-FOX MOVIES,http://154.216.191.59/ycdz/tw220.php?id=39
-國家地理,http://154.216.191.59/ycdz/tw220.php?id=40
-衛視中文,http://154.216.191.59/ycdz/tw220.php?id=41
-衛視電影,http://154.216.191.59/ycdz/tw220.php?id=42
-三立台灣,http://154.216.191.59/ycdz/tw220.php?id=43
-年代新聞台,http://154.216.191.59/ycdz/tw220.php?id=44
-三立新聞,http://154.216.191.59/ycdz/tw220.php?id=45
-尼克兒童頻道,http://154.216.191.59/ycdz/tw220.php?id=46
-nickjr.小尼克,http://154.216.191.59/ycdz/tw220.php?id=47
-MTV Live音樂頻道,http://154.216.191.59/ycdz/tw220.php?id=48
-達文西頻道,http://154.216.191.59/ycdz/tw220.php?id=49
-寵物頻道,http://154.216.191.59/ycdz/tw220.php?id=50
-亚美卫视,http://www.seasky.icu/ymws.php
 韩国娱乐台KMTV,mitv://ns1.hellotvvod.com:9906/86c6977521d94569b5866980616aa94c
 
 🇭🇰省港台,#genre#
@@ -217,27 +129,6 @@ MTV Live音樂頻道,http://154.216.191.59/ycdz/tw220.php?id=48
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8#http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-珠江,http://113.100.72.131:8899/udp/239.77.0.1:5146
-珠江,http://113.100.72.131:8899/udp/239.77.0.114:5146
-新闻,http://113.100.72.131:8899/udp/239.77.0.173:5146
-民生,http://113.100.72.131:8899/udp/239.77.0.225:5146
-体育,http://113.100.72.131:8899/udp/239.77.0.112:5146
-体育,http://113.100.72.131:8899/udp/239.77.0.168:5146
-移动,http://113.100.72.131:8899/udp/239.77.0.20:5146
-综艺4K,http://113.100.72.131:8899/udp/239.77.1.236:5146
-综艺4K,http://113.100.72.131:8899/udp/239.77.1.237:5146
-综艺4K,http://113.100.72.131:8899/udp/239.77.0.244:5146
-综艺4K,http://113.100.72.131:8899/udp/239.77.0.245:5146
-经济科教,http://113.100.72.131:8899/udp/239.77.0.85:5146
-经济科教,http://113.100.72.131:8899/udp/239.77.0.167:5146
-影视,http://113.100.72.131:8899/udp/239.77.0.217:5146
-少儿,http://113.100.72.131:8899/udp/239.77.0.250:5146
-嘉佳卡通,http://113.100.72.131:8899/udp/239.77.0.179:5146
-岭南戏曲,http://113.100.72.131:8899/udp/239.77.0.16:5146
-广州综合,http://113.100.72.131:8899/udp/239.253.43.71:5146
-广州新闻,http://113.100.72.131:8899/udp/239.253.43.72:5146
-广州影视,http://113.100.72.131:8899/udp/239.253.43.73:5146
-广州法治,http://113.100.72.131:8899/udp/239.253.43.74:5146
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
 广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
