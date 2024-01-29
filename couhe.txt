@@ -1,5 +1,6 @@
 🇭🇰深圳旁边台,#genre#
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线新闻,http://sz.l68.fun:9001/bysid/83
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=20065
 凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=30014
