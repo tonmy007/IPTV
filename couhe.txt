@@ -1,14 +1,88 @@
 🇭🇰深圳旁边台,#genre#
+凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
+凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰中文频道,http://146.56.153.245:20121/bysid/258
+凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯频道,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8?
+凤凰资讯频道,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯频道,http://146.56.153.245:20121/bysid/257
+香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+香港凤凰频道,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+香港凤凰频道,http://gzcyl001.3322.org:8081/hls/33/index.m3u8
+香港凤凰频道,http://hikvision.city:880/fhxgt.m3u8
+香港凤凰频道,http://146.56.153.245:20121/bysid/259
+香港凤凰频道,http://113.64.145.55:8081/hls/38/index.m3u8
+香港凤凰频道,http://123.202.245.120:8008/bysid/85
+无线星河频道,http://113.64.145.55:8081/hls/135/index.m3u8
+无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+凤凰电影频道,http://117.114.153.25:8180/TV00000000000000000072@HHZT
+星空卫视频道,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
+Channel[V]台,http://iptv.028028.xyz:8/udp/239.93.0.157:2194
+无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+香港33台高清,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+香港34台高清,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
+香港35台高清,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
+axn电影频道,http://117.114.153.25:8180/TV00000000000000000076@HHZT
+CINEMAX电影,http://117.114.153.25:8180/TV00000000000000000109@HHZT
+
+
+
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
+
+
+凤凰资讯,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=2
+
+
+
+凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
+
+
+凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
+凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
+
+
+凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
+
+
+
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-无线新闻,http://sz.l68.fun:9001/bysid/83
-凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=30014
-凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=20066
-凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
-无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线财经,http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+星空,http://wouu.net:9977/udp/239.93.0.156:2193
+星空,http://nas.jumping.wang:5555/udp/239.93.0.156:2193
+星空,http://n1.jimgo.win:4022/udp/239.93.1.10:2193
+星空卫视频道,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
+星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
+港台电视33,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台电视34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+港台电视35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1823419144.m3u8
+香港電台34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+香港電台34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w316626141.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+
 
 
 🇭🇰广东电信,#genre#
